@@ -1,0 +1,20 @@
+﻿l_russian:
+ gift_accepted: "Your gift was accepted with open arms!" #NT!
+ action_deny: "It doesn't appear that he enjoyed that..." #NT!
+ action_accept: "Perfection! As far as you can tell he quite enjoyed that." #NT!
+ action_neutral: "That didn't seem to have any effect." #NT!
+ date_fail: "He politely declined your offer." #NT!
+  
+ good_title_1: "Success!" #NT!
+ good_title_2: "  UwU!  " #NT!
+ good_title_3: "Perfect!" #NT!
+ good_title_4: "  Nice! " #NT!
+ good_title_5: "  Hot!  " #NT!
+  
+ bad_title_1: " Oh no! " #NT!
+ bad_title_2: "  Oof   " #NT!
+ bad_title_3: "  ...   " #NT!
+ bad_title_4: "  Hmm   " #NT!
+ bad_title_5: "  Oops  " #NT!
+  
+ neutral_title_1: "Unfortunate" #NT!

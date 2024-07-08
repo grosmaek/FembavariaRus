@@ -1,0 +1,81 @@
+﻿l_russian:
+ BVR_fascism: "Fembavaria" #NT!
+ BVR_fascism_DEF: "Fembavaria" #NT!
+ BVR_democratic: "The Fembavarian Republic" #NT!
+ BVR_democratic_DEF: "The Fembavarian Republic" #NT!
+ BVR_neutrality: "The Bavarian Regency" #NT!
+ BVR_neutrality_DEF: "The Bavarian Regency" #NT!
+ BVR_communism: "The Cuteness Collective" #NT!
+ BVR_communism_DEF: "The Cuteness Collective" #NT!
+ BVR_fascism_ADJ: "Bavarian" #NT!
+ BVR_democratic_ADJ: "Bavarian" #NT!
+ BVR_neutrality_ADJ: "Bavarian" #NT!
+ BVR_communism_ADJ: "Bavarian" #NT!
+ BVR: "Fembavaria" #NT!
+ BVR_DEF: "Fembavaria" #NT!
+ BVR_ADJ: "Bavarian" #NT!
+ BVR_adorablex: "The Bavarian Regency" #NT!
+ BVR_adorablex_DEF: "The Bavarian Regency" #NT!
+  
+ BVR_a: "Fembavaria" #NT!
+ BVR_a_DEF: "Fembavaria" #NT!
+ BVR_b: "Femboyvaria" #NT!
+ BVR_b_DEF: "Femboyvaria" #NT!
+ BVR_c: "The Knightly Order of Pink Bavaria" #NT!
+ BVR_c_DEF: "The Knightly Order of Pink Bavaria" #NT!
+ BVR_e: "Bavaria" #NT!
+ BVR_e_DEF: "Bavaria" #NT!
+ BVR_f: "The Kingdom of Fembavaria" #NT!
+ BVR_f_DEF: "The Kingdom of Fembavaria" #NT!
+ BVR_g: "The Kingdom of Femboyvaria" #NT!
+ BVR_g_DEF: "The Kingdom of Femboyvaria" #NT!
+ BVR_h: "The Kingdom of Bavaria" #NT!
+ BVR_h_DEF: "The Kingdom of Bavaria" #NT!
+  
+ BVR_c_alt: "The Bavarian Republic" #NT!
+  
+ TYR_fascism: "Tyrol" #NT!
+ TYR_fascism_DEF: "Tyrol" #NT!
+ TYR_democratic: "Republic of Tyrol" #NT!
+ TYR_democratic_DEF: "the Republic of Tyrol" #NT!
+ TYR_neutrality: "Tyrol" #NT!
+ TYR_neutrality_DEF: "Tyrol" #NT!
+ TYR_communism: "Tyrol" #NT!
+ TYR_communism_DEF: "Tyrol" #NT!
+ TYR_fascism_ADJ: "Tyrolean" #NT!
+ TYR_democratic_ADJ: "Tyrolean" #NT!
+ TYR_neutrality_ADJ: "Tyrolean" #NT!
+ TYR_communism_ADJ: "Tyrolean" #NT!
+ TYR: "Tyrol" #NT!
+ TYR_DEF: "Tyrol" #NT!
+ TYR_ADJ: "Tyrolean" #NT!
+  
+ GER_rommelreich: "Wehrmacht" #NT!
+ GER_rommelreich_DEF: "the Wehrmacht" #NT!
+  
+ GER_empire: "New German Empire" #NT!
+ GER_empire: "the New German Empire" #NT!
+  
+ pink_empire: "The Effeminate Empire" #NT!
+ pink_empire_DEF: "The Effeminate Empire" #NT!
+ pink_empire_ADJ: "Bavarian" #NT!
+  
+ PAT: "Pink Russia" #NT!
+ PAT_DEF: "Pink Russia" #NT!
+ PAT_ADJ: "Russian" #NT!
+  
+ THIRD_PINK_RUSSIA: "Third Rome" #NT!
+ THIRD_PINK_RUSSIA_DEF: "Third Rome" #NT!
+ THIRD_PINK_RUSSIA_ADJ: "Russian" #NT!
+  
+ TUR_FEMBOY_fascism: "The Pink Sultanate" #NT!
+ TUR_FEMBOY_fascism_DEF: "The Pink Sultanate" #NT!
+ TUR_FEMBOY_neutrality: "The Pink Sultanate" #NT!
+ TUR_FEMBOY_neutrality_DEF: "The Pink Sultanate" #NT!
+  
+ FSC: "The Femboy Union" #NT!
+ FSC_DEF: "The Femboy Union" #NT!
+ FSC_ADJ: "Scandinavian" #NT!
+  
+ GER_felix_fascism: "New German Empire" #NT!
+ GER_felix_fascism: "the New German Empire" #NT!

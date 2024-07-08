@@ -1,0 +1,668 @@
+﻿l_russian:
+  
+ # Generic 
+  
+ CUTE_modern_fashion: "Modern Fashion" #NT!
+ CUTE_modern_fashion_desc: "1930s fashion for both men and women is UGLY. It's time to switch up our style and embrace something more modern." #NT!
+  
+ CUTE_ramp_up_production: "Ramp up Production" #NT!
+ CUTE_ramp_up_production_desc: "" #NT!
+ CUTE_prodcution_tooltip_1: "§1Once the next tier is developed, enough socks will be produced to allow for use in the military and by regular citizens outside the factories.§!" #NT!
+  
+ CUTE_expand_the_sowing_complex: "Expand the Sewing Complex" #NT!
+ CUTE_expand_the_sowing_complex_desc: "" #NT!
+  
+ CUTE_ensure_excellent_quality: "Ensure Excellent Quality" #NT!
+ CUTE_ensure_excellent_quality_desc: "" #NT!
+ CUTE_prodcution_tooltip_2: "§1The next tier of socks will be much more comfrtable and make those who wear them happy and less likely to revolt.§!" #NT!
+  
+ CUTE_tier_II_socks: "Tier II Socks" #NT!
+ CUTE_tier_II_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ CUTE_experimental_fabric: "Experimental Fabric" #NT!
+ CUTE_experimental_fabric_desc: "" #NT!
+ CUTE_prodcution_tooltip_3: "§1The next tier of socks will use experimental fabric that will increase worker efficiently.§!" #NT!
+  
+ CUTE_bullet_proof_bows: "Bullet Proof Bows" #NT!
+ CUTE_bullet_proof_bows_desc: "" #NT!
+ CUTE_prodcution_tooltip_4: "§1The next tier of socks will use use bullet proof bows to increase defense.§!" #NT!
+  
+ CUTE_cheap_as_dirt: "Cheap as Dirt" #NT!
+ CUTE_cheap_as_dirt_desc: "" #NT!
+ CUTE_prodcution_tooltip_5: "§1The next tier of socks will be easy to produce and reduce strain on production efficiency.§!" #NT!
+  
+ CUTE_tier_III_socks: "Tier III Socks" #NT!
+ CUTE_tier_III_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ CUTE_performance_enhancing_fiber: "Performance Enhancing Fiber" #NT!
+ CUTE_performance_enhancing_fiber_desc: "" #NT!
+ CUTE_prodcution_tooltip_6: "§1The next tier of socks will increase movement speed and production efficiency.§!" #NT!
+  
+ CUTE_increased_enemy_distraction: "Increased Enemy Distraction" #NT!
+ CUTE_increased_enemy_distraction_desc: "" #NT!
+ CUTE_prodcution_tooltip_7: "§1The next tier of socks will be designed to distract enemies. Tricking them into gazing at them for far too long.§!" #NT!
+  
+ CUTE_built_in_autopilot: "Built in Autopilot" #NT!
+ CUTE_built_in_autopilot_desc: "" #NT!
+ CUTE_prodcution_tooltip_8: "§1The next tier of socks will have mechanized movement capabilities and allow for literal forced marches.§!" #NT!
+  
+ CUTE_tier_IV_socks: "Tier IV Socks" #NT!
+ CUTE_tier_IV_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ CUTE_immortality_charm: "Immortality Charm" #NT!
+ CUTE_immortality_charm_desc: "" #NT!
+ CUTE_prodcution_tooltip_9: "§1The next tier of socks will slow the aging process and help its user never age a day over thirty.§!" #NT!
+  
+ CUTE_shapeshifting_enhancements: "Shapeshifting Enhancement" #NT!
+ CUTE_shapeshifting_enhancements_desc: "" #NT!
+ CUTE_prodcution_tooltip_10: "§1The next tier of socks will be able to morph and asist its wearing with whatever work they are trying to accomplish.§!" #NT!
+  
+ CUTE_cognitive_enhancer: "Cognitive Enhancer" #NT!
+ CUTE_cognitive_enhancer_desc: "" #NT!
+ CUTE_prodcution_tooltip_11: "§1The next tier of socks will increase its user's cognitive abilities. Increasing both combat abilities and production skills.§!" #NT!
+  
+ CUTE_tier_V_socks: "Tier V Socks" #NT!
+ CUTE_tier_V_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ CUTE_built_in_rocket_launcher: "Built in Rocket Launcher" #NT!
+ CUTE_built_in_rocket_launcher_desc: "" #NT!
+ CUTE_prodcution_tooltip_12: "§1The next tier of socks will have built in rocket launchers for emergency use against enemies to Bavaria.§!" #NT!
+  
+ CUTE_infinite_storage: "Infinite Storage" #NT!
+ CUTE_infinite_storage_desc: "" #NT!
+ CUTE_prodcution_tooltip_13: "§1The next tier of socks will be able to store an infinite amoung of belongings without ruining their appearance.§!" #NT!
+  
+ CUTE_flight_capabilities: "Flight Capabilities" #NT!
+ CUTE_flight_capabilities_desc: "" #NT!
+ CUTE_prodcution_tooltip_14: "§1The next tier of socks will use experimental fight tech that will allow the users to have some flight abilities.§!" #NT!
+  
+ CUTE_tier_VI_socks: "Tier VI Socks" #NT!
+ CUTE_tier_VI_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ CUTE_plasma_field: "Plasma Field" #NT!
+ CUTE_plasma_field_desc: "" #NT!
+ CUTE_prodcution_tooltip_15: "§1The final tier of socks will include several turrets with the ability to create a plasma field around them.§!" #NT!
+  
+ CUTE_infinite_comfort: "Infinite Comfort" #NT!
+ CUTE_infinite_comfort_desc: "" #NT!
+ CUTE_prodcution_tooltip_16: "§1The final tier of socks will give its user infinite comfort beyond what was once thought possible.§!" #NT!
+  
+ CUTE_teleportation_chip: "Teleportation Chip" #NT!
+ CUTE_teleportation_chip_desc: "" #NT!
+ CUTE_prodcution_tooltip_17: "§1The final tier of socks will allow for short-range teleportation abilities.§!" #NT!
+  
+ CUTE_tier_VII_socks: "Tier VII Socks" #NT!
+ CUTE_tier_VII_socks_desc: "It's time to use what we've learned and make a final tier of socks!" #NT!
+  
+ CUTE_bavarian_militarism: "Cute Militarism" #NT!
+ CUTE_bavarian_militarism_desc: "" #NT!
+  
+ CUTE_smarter_than_we_seem: "Smarter Than We Seem" #NT!
+  
+ CUTE_tour_buses: "Tour Buses" #NT!
+ CUTE_tour_buses_desc: "" #NT!
+  
+ CUTE_plan_for_perrfection: "Plan for Purrfection" #NT!
+ CUTE_plan_for_perrfection_desc: "" #NT!
+  
+ CUTE_force_people_to_do_stuff: "Force People to do Stuff" #NT!
+ CUTE_force_people_to_do_stuff_desc: "" #NT!
+  
+ CUTE_support: "Support Companies" #NT!
+ CUTE_support_desc: "" #NT!
+  
+ CUTE_arty_research: "Glitter Cannons" #NT!
+ CUTE_arty_research_desc: "" #NT!
+  
+ CUTE_a_lesson_in_theory: "A Lesson in Theory" #NT!
+ CUTE_a_lesson_in_theory_desc: "" #NT!
+  
+ CUTE_supremacy_of_skirts: "Supremacy of Skirts" #NT!
+ CUTE_supremacy_of_skirts_desc: "" #NT!
+  
+ CUTE_supremacy_of_sparkles: "Supremacy of Sparkles" #NT!
+ CUTE_supremacy_of_sparkles_desc: "" #NT!
+  
+ smarter_than_we_seem: "Smarter than we Seem" #NT!
+ smarter_than_we_seem_desc: "" #NT!
+  
+ CUTE_empower_the_assembly: "Empower the Assembly" #NT!
+ CUTE_empower_the_assembly_desc: "" #NT!
+  
+ CUTE_hideris_victory: "Hideri's Victory" #NT!
+ CUTE_hideris_victory_desc: "" #NT!
+  
+ CUTE_establish_trade_unions: "Establish Trade Unions" #NT!
+ CUTE_establish_trade_unions_desc: "" #NT!
+  
+ CUTE_abolish_the_monarchy: "Abolish the Monarchy" #NT!
+ CUTE_abolish_the_monarchy_desc: "" #NT!
+  
+ CUTE_erase_german_influence: "Erase German Influence" #NT!
+ CUTE_erase_german_influence_desc: "" #NT!
+  
+ CUTE_declare_neutrality: "Declare Neutrality" #NT!
+ CUTE_declare_neutrality_desc: "" #NT!
+  
+ CUTE_support_femboy_immigration: "Support Fem Immigration" #NT!
+ CUTE_support_femboy_immigration_desc: "" #NT!
+  
+ CUTE_the_femboy_front: "The Feminine Front" #NT!
+ CUTE_the_femboy_front_desc: "" #NT!
+  
+ CUTE_modify_the_bavarian_plan: "Modify the Bavarian Plan" #NT!
+ CUTE_modify_the_bavarian_plan_desc: "" #NT!
+  
+ CUTE_break_the_chains: "Break the Chains" #NT!
+ CUTE_break_the_chains_desc: "" #NT!
+  
+ CUTE_a_quick_purge: "A Quick Purge" #NT!
+ CUTE_a_quick_purge_desc: "" #NT!
+  
+ CUTE_the_flying_femboys: "Flying!" #NT!
+ CUTE_the_flying_femboys_desc: "" #NT!
+  
+ CUTE_rebuild_the_airfields: "Rebuild the Airfields" #NT!
+ CUTE_rebuild_the_airfields_desc: "" #NT!
+  
+ CUTE_interception_insanity: "Interception Insanity" #NT!
+ CUTE_interception_insanity_desc: "" #NT!
+  
+ CUTE_boom: "Boom" #NT!
+ CUTE_boom_desc: "" #NT!
+  
+ CUTE_a_navy_with_no_ships: "A Navy With No Ships" #NT!
+ CUTE_a_navy_with_no_ships_desc: "" #NT!
+  
+ CUTE_university_of_flying: "University of Flying" #NT!
+ CUTE_university_of_flying_desc: "" #NT!
+  
+ CUTE_advanced_research: "Advanced Research" #NT!
+ CUTE_advanced_research_desc: "" #NT!
+  
+ CUTE_steal_recreational_planes: "Steal Recreational Planes" #NT!
+ CUTE_steal_recreational_planes_desc: "" #NT!
+  
+ CUTE_the_flying_femboy_concert: "The Flying Femboy Concert" #NT!
+ CUTE_the_flying_femboy_concert_desc: "" #NT!
+  
+ CUTE_oceans_exists: "Oceans Exist" #NT!
+ CUTE_oceans_exists_desc: "" #NT!
+  
+ CUTE_throw_someone_into_the_water: "Throw Someone Into The Water" #NT!
+ CUTE_throw_someone_into_the_water_desc: "" #NT!
+  
+ CUTE_figure_out_what_ships_are_good: "Figure Out What Ships Are Good" #NT!
+ CUTE_figure_out_what_ships_are_good_desc: "" #NT!
+  
+ CUTE_explosions: "Explosions" #NT!
+ CUTE_explosions_desc: "" #NT!
+  
+ CUTE_rule_the_waves: "Rule the Waves" #NT!
+ CUTE_rule_the_waves_desc: "" #NT!
+  
+ CUTE_protect_sock_trade_routes: "Protect the Sock Trade" #NT!
+ CUTE_protect_sock_trade_routes_desc: "" #NT!
+  
+ # Bavaria 
+  
+ BVR_modern_fashion: "Modern Fashion" #NT!
+ BVR_modern_fashion_desc: "1930s fashion for both men and women is UGLY. It's time to switch up our style and embrace something more modern." #NT!
+  
+ BVR_ramp_up_production: "Ramp up Production" #NT!
+ BVR_ramp_up_production_desc: "" #NT!
+ BVR_prodcution_tooltip_1: "§1Once the next tier is developed, enough socks will be produced to allow for use in the military and by regular citizens outside the factories.§!" #NT!
+  
+ BVR_expand_the_sowing_complex: "Expand the Sewing Complex" #NT!
+ BVR_expand_the_sowing_complex_desc: "" #NT!
+  
+ BVR_ensure_excellent_quality: "Ensure Excellent Quality" #NT!
+ BVR_ensure_excellent_quality_desc: "" #NT!
+ BVR_prodcution_tooltip_2: "§1The next tier of socks will be much more comfrtable and make those who wear them happy and less likely to revolt.§!" #NT!
+  
+ BVR_tier_II_socks: "Tier II Socks" #NT!
+ BVR_tier_II_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ BVR_experimental_fabric: "Experimental Fabric" #NT!
+ BVR_experimental_fabric_desc: "" #NT!
+ BVR_prodcution_tooltip_3: "§1The next tier of socks will use experimental fabric that will increase worker efficiently.§!" #NT!
+  
+ BVR_bullet_proof_bows: "Bullet Proof Bows" #NT!
+ BVR_bullet_proof_bows_desc: "" #NT!
+ BVR_prodcution_tooltip_4: "§1The next tier of socks will use use bullet proof bows to increase defense.§!" #NT!
+  
+ BVR_cheap_as_dirt: "Cheap as Dirt" #NT!
+ BVR_cheap_as_dirt_desc: "" #NT!
+ BVR_prodcution_tooltip_5: "§1The next tier of socks will be easy to produce and reduce strain on production efficiency.§!" #NT!
+  
+ BVR_tier_III_socks: "Tier III Socks" #NT!
+ BVR_tier_III_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ BVR_performance_enhancing_fiber: "Performance Enhancing Fiber" #NT!
+ BVR_performance_enhancing_fiber_desc: "" #NT!
+ BVR_prodcution_tooltip_6: "§1The next tier of socks will increase movement speed and production efficiency.§!" #NT!
+  
+ BVR_increased_enemy_distraction: "Increased Enemy Distraction" #NT!
+ BVR_increased_enemy_distraction_desc: "" #NT!
+ BVR_prodcution_tooltip_7: "§1The next tier of socks will be designed to distract enemies. Tricking them into gazing at them for far too long.§!" #NT!
+  
+ BVR_built_in_autopilot: "Built in Autopilot" #NT!
+ BVR_built_in_autopilot_desc: "" #NT!
+ BVR_prodcution_tooltip_8: "§1The next tier of socks will have mechanized movement capabilities and allow for literal forced marches.§!" #NT!
+  
+ BVR_tier_IV_socks: "Tier IV Socks" #NT!
+ BVR_tier_IV_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ BVR_immortality_charm: "Immortality Charm" #NT!
+ BVR_immortality_charm_desc: "" #NT!
+ BVR_prodcution_tooltip_9: "§1The next tier of socks will slow the aging process and help its user never age a day over thirty.§!" #NT!
+  
+ BVR_shapeshifting_enhancements: "Shapeshifting Enhancement" #NT!
+ BVR_shapeshifting_enhancements_desc: "" #NT!
+ BVR_prodcution_tooltip_10: "§1The next tier of socks will be able to morph and asist its wearing with whatever work they are trying to accomplish.§!" #NT!
+  
+ BVR_cognitive_enhancer: "Cognitive Enhancer" #NT!
+ BVR_cognitive_enhancer_desc: "" #NT!
+ BVR_prodcution_tooltip_11: "§1The next tier of socks will increase its user's cognitive abilities. Increasing both combat abilities and production skills.§!" #NT!
+  
+ BVR_tier_V_socks: "Tier V Socks" #NT!
+ BVR_tier_V_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ BVR_built_in_rocket_launcher: "Built in Rocket Launcher" #NT!
+ BVR_built_in_rocket_launcher_desc: "" #NT!
+ BVR_prodcution_tooltip_12: "§1The next tier of socks will have built in rocket launchers for emergency use against enemies to Bavaria.§!" #NT!
+  
+ BVR_infinite_storage: "Infinite Storage" #NT!
+ BVR_infinite_storage_desc: "" #NT!
+ BVR_prodcution_tooltip_13: "§1The next tier of socks will be able to store an infinite amoung of belongings without ruining their appearance.§!" #NT!
+  
+ BVR_flight_capabilities: "Flight Capabilities" #NT!
+ BVR_flight_capabilities_desc: "" #NT!
+ BVR_prodcution_tooltip_14: "§1The next tier of socks will use experimental fight tech that will allow the users to have some flight abilities.§!" #NT!
+  
+ BVR_tier_VI_socks: "Tier VI Socks" #NT!
+ BVR_tier_VI_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ BVR_plasma_field: "Plasma Field" #NT!
+ BVR_plasma_field_desc: "" #NT!
+ BVR_prodcution_tooltip_15: "§1The final tier of socks will include several turrets with the ability to create a plasma field around them.§!" #NT!
+  
+ BVR_infinite_comfort: "Infinite Comfort" #NT!
+ BVR_infinite_comfort_desc: "" #NT!
+ BVR_prodcution_tooltip_16: "§1The final tier of socks will give its user infinite comfort beyond what was once thought possible.§!" #NT!
+  
+ BVR_teleportation_chip: "Teleportation Chip" #NT!
+ BVR_teleportation_chip_desc: "" #NT!
+ BVR_prodcution_tooltip_17: "§1The final tier of socks will allow for short-range teleportation abilities.§!" #NT!
+  
+ BVR_tier_VII_socks: "Tier VII Socks" #NT!
+ BVR_tier_VII_socks_desc: "It's time to use what we've learned and make a final tier of socks!" #NT!
+  
+  
+  
+ BVR_the_first_munich_concert: "The First Munich Concert" #NT!
+ BVR_the_first_munich_concert_desc: "An Assembly has formed to guide this young nation. We must plan a large concert to follow up on Felix's original messages and begin planning for what this nation should become." #NT!
+  
+ BVR_the_second_munich_concert: "The Second Munich Concert" #NT!
+ BVR_the_second_munich_concert_desc: "With the first concert finished, there is still a lot of work to do. We must address the people once again." #NT!
+  
+ BVR_the_third_munich_concert: "The Third Munich Concert" #NT!
+ BVR_the_third_munich_concert_desc: "One final address to the people is required to solidify our itendity and form a government!" #NT!
+  
+ BVR_the_closed_doors_concerto: "The Closed Doors Concerto" #NT!
+ BVR_the_closed_doors_concerto_desc: "Addressing the people is boring. Time for secret meetings where we plan for world domination!" #NT!
+  
+ BVR_the_path_to_freedom: "The Path to Freedom" #NT!
+ BVR_the_path_to_freedom_desc: "" #NT!
+  
+ BVR_the_prime_femboy: "The Ideal Male" #NT!
+ BVR_the_prime_femboy_desc: "" #NT!
+  
+ BVR_our_royal_birthright: "The Lord Regent" #NT!
+ BVR_our_royal_birthright_desc: "" #NT!
+  
+ BVR_close_the_pink_gates: "Close the Pink Gates" #NT!
+ BVR_close_the_pink_gates_desc: "" #NT!
+  
+ BVR_enforced_cuteness_standards: "Enforced Cuteness Standards" #NT!
+ BVR_enforced_cuteness_standards_desc: "" #NT!
+  
+ BVR_state_controlled_skirt_production: "Controlled Skirt Production" #NT!
+ BVR_state_controlled_skirt_production_desc: "" #NT!
+  
+ BVR_fortify_the_north: "Fortify the North" #NT!
+ BVR_fortify_the_north_desc: "" #NT!
+  
+ BVR_dissolve_the_assembly: "Dissolve the Assembly" #NT!
+ BVR_dissolve_the_assembly_desc: "" #NT!
+  
+ BVR_son_of_the_king: "Son of the King" #NT!
+ BVR_son_of_the_king_desc: "" #NT!
+ BVR_son_of_the_king_desc_tooltip: "Felix must prepare himself to become a §YTrue Leader§! and §YDiplomatically§! lead Bavaria to victory!" #NT!
+  
+ BVR_a_lesson_in_etiquette: "A Lesson in Etiquette" #NT!
+ BVR_a_lesson_in_etiquette_desc: "" #NT!
+  
+ BVR_a_lesson_in_cleanliness: "A Lesson in Cleanliness" #NT!
+ BVR_a_lesson_in_cleanliness_desc: "" #NT!
+  
+ BVR_a_lesson_in_courtship: "A Lesson in Courtship" #NT!
+ BVR_a_lesson_in_courtship_desc: "" #NT!
+  
+ BVR_the_grand_ball: "The Grand Ball" #NT!
+ BVR_the_grand_ball_desc: "" #NT!
+  
+ BVR_a_little_practice: "A Little Practice" #NT!
+ BVR_a_little_practice_desc: "" #NT!
+ BVR_a_little_practice_tooltip: "§1This trait may prove useful beyond simply improving relations.§!" #NT!
+  
+ BVR_dealing_with_father: "Dealing with Father" #NT!
+ BVR_dealing_with_father_desc: "" #NT!
+  
+ BVR_one_state_to_rule_them_all: "One State to Rule Them All!" #NT!
+ BVR_one_state_to_rule_them_all_desc: "" #NT!
+ BVR_one_state_to_rule_them_all_tooltip: "The §YPolitics§! and §YIndustry§! of the state must be altered to ensure victory over our countless foes!" #NT!
+  
+ BVR_cuteness_in_the_classroom: "Cuteness in the Classroom" #NT!
+ BVR_cuteness_in_the_classroom_desc: "" #NT!
+  
+ BVR_the_pink_decree: "The Pink Decree" #NT!
+ BVR_the_pink_decree_desc: "" #NT!
+  
+ BVR_secure_the_resources: "Secure the Resources" #NT!
+ BVR_secure_the_resources_desc: "" #NT!
+  
+ BVR_a_better_autarky: "A Better Autarky" #NT!
+ BVR_a_better_autarky_desc: "" #NT!
+  
+ BVR_the_bavarian_plan: "The Bavarian Plan" #NT!
+ BVR_the_bavarian_plan_desc: "" #NT!
+  
+ BVR_of_men_and_women: "Of Men and Women" #NT!
+ BVR_of_men_and_women_desc: "" #NT!
+  
+ BVR_the_best_diplomacy: "Neodiplomacy" #NT!
+ BVR_the_best_diplomacy_desc: "" #NT!
+ BVR_the_best_diplomacy_tooltip: "Unlocks a £GFX_decision_icon_small §YDecision§! to open a dating interface." #NT!
+  
+ BVR_raise_the_militia: "Raise the Militia" #NT!
+ BVR_raise_the_militia_desc: "" #NT!
+  
+ BVR_the_pink_empire: "The Pink Empire" #NT!
+ BVR_the_pink_empire_desc: "" #NT!
+  
+ BVR_the_path_to_freedom: "Our Path To Freedom" #NT!
+ BVR_the_path_to_freedom_desc: "" #NT!
+  
+ BVR_first_bavarian_elections: "First Bavarian Elections" #NT!
+ BVR_first_bavarian_elections_desc: "" #NT!
+  
+ BVR_the_flame: "Protecting the Flame" #NT!
+ BVR_the_flame_desc: "" #NT!
+  
+ BVR_rewrite_the_constitution: "Rewrite The Constitution" #NT!
+ BVR_rewrite_the_constitution_desc: "" #NT!
+  
+ BVR_unite_europe_with_love: "Unite Europe with Love" #NT!
+ BVR_unite_europe_with_love_desc: "" #NT!
+  
+ BVR_unite_europe_with_strength: "Unite Europe with Strength" #NT!
+ BVR_unite_europe_with_strength_desc: "" #NT!
+  
+ BVR_our_future: "Our Future" #NT!
+ BVR_our_future_desc: "" #NT!
+  
+ BVR_the_central_economy: "The Central Economy" #NT!
+ BVR_the_central_economy_desc: "" #NT!
+  
+ BVR_dreams_of_a_united_republic: "Dreams of a United Republic" #NT!
+ BVR_dreams_of_a_united_republic_desc: "" #NT!
+  
+ BVR_plan_the_unification: "Plan The Unification" #NT!
+ BVR_plan_the_unification_desc: "" #NT!
+  
+ BVR_rig_the_elections: "Trial By Fire" #NT!
+ BVR_rig_the_elections_desc: "" #NT!
+  
+ BVR_a_fair_election: "A Fair Election" #NT!
+ BVR_a_fair_election_desc: "" #NT!
+  
+ BVR_united_once_more: "United Once More" #NT!
+ BVR_united_once_more_desc: "" #NT!
+  
+ BVR_further_expansion_plans: "Furter Plans of Expansion" #NT!
+ BVR_further_expansion_plans_desc: "" #NT!
+  
+ BVR_austrian_question: "The Czech Question" #NT!
+ BVR_austrian_question_desc: "" #NT!
+  
+ BVR_austrian_elections: "Czechoslovakia Unification Elections" #NT!
+ BVR_austrian_elections_desc: "" #NT!
+  
+ BVR_permission_to_use_force: "Invade Czechoslovakia" #NT!
+ BVR_permission_to_use_force_desc: "" #NT!
+  
+ BVR_democracy_for_europe: "Democracy For Europe" #NT!
+ BVR_democracy_for_europe_desc: "" #NT!
+  
+ BVR_union_of_cuteness: "Union of Cuteness" #NT!
+ BVR_union_of_cuteness_desc: "" #NT!
+  
+ BVR_eastern_expansion: "Eastern Expansion" #NT!
+ BVR_eastern_expansion_desc: "" #NT!
+  
+ BVR_western_expansion: "Western Expansion" #NT!
+ BVR_western_expansion_desc: "" #NT!
+  
+ BVR_polish_guarantees: "Guarantees for Danzig" #NT!
+ BVR_polish_guarantees_desc: "" #NT!
+  
+ BVR_baltic_membership: "Baltic Membership" #NT!
+ BVR_batic_membership_desc: "" #NT!
+  
+ BVR_czechoslovakian_question: "Czechoslovakian Question" #NT!
+ BVR_czechoslovakian_question_desc: "" #NT!
+  
+ BVR_lowlands_membership: "Lowlands Membership" #NT!
+ BVR_lowlands_membership_DEF: "" #NT!
+  
+ BVR_tyrol_offer: "Tyrol for Alliance?" #NT!
+ BVR_tyrol_offer_desc: "" #NT!
+  
+ BVR_bavaria_our_beloved: "Bavaria Our Beloved" #NT!
+ BVR_bavaria_our_beloved_desc: "" #NT!
+  
+ BVR_arsenal_of_cuteness: "Arsenal of Cuteness" #NT!
+ BVR_arsenal_of_cuteness_desc: "" #NT!
+  
+ BVR_a_unified_nation: "A Unified Nation" #NT!
+ BVR_a_unified_nation_desc: "" #NT!
+  
+ BVR_tyrol_uprising: "Tyrol Uprising" #NT!
+  
+ BVR_strike_at_germany: "Strike at Germany" #NT!
+ BVR_strike_at_germany_desc: "" #NT!
+ BVR_strike_at_germany_tooltip: "Six §G14-Width Infantry§! will rise up in Munich!" #NT!
+  
+ BVR_a_nation_at_war: "A Nation at War" #NT!
+ BVR_a_nation_at_war_desc: "" #NT!
+  
+ BVR_a_trial_of_cuteness: "A Trial of Cuteness" #NT!
+ BVR_a_trial_of_cuteness_desc: "" #NT!
+  
+ BVR_expand_the_crowns_power: "Expand the Crown's Power" #NT!
+ BVR_expand_the_crowns_power_desc: "" #NT!
+  
+ BVR_renovate_neuschwanstein: "Femboyschwanstein" #NT!
+ BVR_renovate_neuschwanstein_desc: "" #NT!
+  
+ BVR_call_the_round_table: "Call the Round Table" #NT!
+ BVR_call_the_round_table_desc: "" #NT!
+  
+ BVR_the_lord_selection_protcols: "The Lord Selection Protocols" #NT!
+ BVR_the_lord_selection_protcols_desc: "" #NT!
+ BVR_the_lord_selection_protcols_tooltip: "The Lord Selection Process will be imporved." #NT!
+  
+ BVR_kightly_training: "Kightly Training" #NT!
+ BVR_kightly_training_desc: "" #NT!
+ BVR_kightly_training_tooltip: "Royal Guard divisions will be better trained." #NT!
+  
+ BVR_raise_the_royal_guard: "Raise the Royal Guard" #NT!
+ BVR_raise_the_royal_guard_desc: "" #NT!
+ BVR_raise_the_royal_guard_tooltip: "Three §GRoyal Guards§! will be recruited in Munich!" #NT!
+  
+ BVR_modern_chivalry: "Modern Chivalry" #NT!
+ BVR_modern_chivalry_desc: "" #NT!
+  
+ BVR_the_merchants_council: "The Merchant's Council" #NT!
+ BVR_the_merchants_council_desc: "" #NT!
+  
+ BVR_fair_market_standards: "High Market Standards" #NT!
+ BVR_fair_market_standards_desc: "" #NT!
+ BVR_fair_market_standards_tooltip: "Implementing the Merchant's Council will increase stability and research speed." #NT!
+  
+ BVR_establish_trading_unions: "Establish Trading Unions" #NT!
+ BVR_establish_trading_unions_desc: "" #NT!
+ BVR_establish_trading_unions_tooltip: "Implementing the Merchant's Council will sacrifice consumer goods benefits for increased production efficiency." #NT!
+  
+ BVR_rebuild_old_castle: "Rebuild Old Castles" #NT!
+ BVR_rebuild_old_castle_desc: "" #NT!
+ BVR_rebuild_old_castle_tooltip: "Prepares us to declare the Kingdom of Bavaria!" #NT!
+  
+ BVR_the_castle_inspection_commission: "The Castle Inspection Commission" #NT!
+ BVR_the_castle_inspection_commission_desc: "" #NT!
+ BVR_the_castle_inspection_commission_tooltip: "Reduces the strain of rebuilding castles." #NT!
+  
+ BVR_stronger_than_steel: "Stronger than Steel" #NT!
+ BVR_stronger_than_steel_desc: "" #NT!
+  
+ BVR_the_kingdom_of_femboyvaria: "The Kingdom of Bavaria" #NT!
+ BVR_the_kingdom_of_femboyvaria_desc: "" #NT!
+  
+ BVR_ensure_a_smooth_transition: "Ensure a Smooth Transition" #NT!
+ BVR_ensure_a_smooth_transition_desc: "" #NT!
+ BVR_ensure_a_smooth_transition_tooltip: "Reduces the stability loss from proclaiming the kingdom." #NT!
+  
+ BVR_prepare_for_the_grand_opening: "Prepare for the Grand Opening" #NT!
+ BVR_prepare_for_the_grand_opening_desc: "" #NT!
+ BVR_prepare_for_the_grand_opening_tooltip: "Reduces the political power loss from proclaiming the kingdom." #NT!
+  
+ BVR_claims_on_england: "Claims on England" #NT!
+ BVR_claims_on_england_desc: "" #NT!
+  
+ BVR_usurp_russian_power: "Pink Czechoslovakia" #NT!
+ BVR_usurp_russian_power_desc: "" #NT!
+  
+ BVR_establish_scandinavian_pretenders: "Establish Scandinavian Pretenders" #NT!
+ BVR_establish_scandinavian_pretenders_desc: "" #NT!
+  
+ BVR_press_colonial_claims: "Press Colonial Claims" #NT!
+ BVR_press_colonial_claims_desc: "" #NT!
+  
+ BVR_bavarian_militarism: "Bavarian Militarism" #NT!
+ BVR_bavarian_militarism_desc: "" #NT!
+  
+ BVR_tour_buses: "Tour Buses" #NT!
+ BVR_tour_buses_desc: "" #NT!
+  
+ BVR_plan_for_perrfection: "Plan for Purrfection" #NT!
+ BVR_plan_for_perrfection_desc: "" #NT!
+  
+ BVR_force_people_to_do_stuff: "Force People to do Stuff" #NT!
+ BVR_force_people_to_do_stuff_desc: "" #NT!
+  
+ BVR_support: "Support Companies" #NT!
+ BVR_support_desc: "" #NT!
+  
+ BVR_arty_research: "Glitter Cannons" #NT!
+ BVR_arty_research_desc: "" #NT!
+  
+ BVR_a_lesson_in_theory: "A Lesson in Theory" #NT!
+ BVR_a_lesson_in_theory_desc: "" #NT!
+  
+ BVR_supremacy_of_skirts: "Supremacy of Skirts" #NT!
+ BVR_supremacy_of_skirts_desc: "" #NT!
+  
+ BVR_supremacy_of_sparkles: "Supremacy of Sparkles" #NT!
+ BVR_supremacy_of_sparkles_desc: "" #NT!
+  
+ smarter_than_we_seem: "Smarter than we Seem" #NT!
+ smarter_than_we_seem_desc: "" #NT!
+  
+ BVR_empower_the_assembly: "Empower the Corporations" #NT!
+ BVR_empower_the_assembly_desc: "" #NT!
+  
+ BVR_spread_revolution: "Spreading a Revolution" #NT!
+ BVR_spread_revolution_desc: "" #NT!
+  
+ BVR_establish_trade_unions: "Establish Trade Unions" #NT!
+ BVR_establish_trade_unions_desc: "" #NT!
+  
+ BVR_abolish_the_monarchy: "Abolish the Monarchy" #NT!
+ BVR_abolish_the_monarchy_desc: "" #NT!
+  
+ BVR_warrior_preparation_program: "Warrior Preparation Program" #NT!
+ BVR_warrior_preparation_program_desc: "" #NT!
+  
+ BVR_the_peace_program: "The Peace Program" #NT!
+ BVR_the_peace_program_desc: "" #NT!
+  
+ BVR_support_immigration: "Support Immigration" #NT!
+ BVR_support_immigration_desc: "" #NT!
+  
+ BVR_the_femboy_front: "The Feminine Front" #NT!
+ BVR_the_femboy_front_desc: "" #NT!
+  
+ BVR_modify_the_bavarian_plan: "Modify the Bavarian Plan" #NT!
+ BVR_modify_the_bavarian_plan_desc: "" #NT!
+  
+ BVR_break_the_chains: "Break the Chains" #NT!
+ BVR_break_the_chains_desc: "" #NT!
+  
+ BVR_prepare_for_conflict: "Repeal the Articles of Peace" #NT!
+ BVR_prepare_for_conflict_desc: "" #NT!
+  
+ BVR_the_flying_femboys: "Flying!" #NT!
+ BVR_the_flying_femboys_desc: "" #NT!
+  
+ BVR_rebuild_the_airfields: "Rebuild the Airfields" #NT!
+ BVR_rebuild_the_airfields_desc: "" #NT!
+  
+ BVR_interception_insanity: "Interception Insanity" #NT!
+ BVR_interception_insanity_desc: "" #NT!
+  
+ BVR_boom: "Boom" #NT!
+ BVR_boom_desc: "" #NT!
+  
+ BVR_a_navy_with_no_ships: "A Navy With No Ships" #NT!
+ BVR_a_navy_with_no_ships_desc: "" #NT!
+  
+ BVR_university_of_flying: "University of Flying" #NT!
+ BVR_university_of_flying_desc: "" #NT!
+  
+ BVR_advanced_research: "Advanced Research" #NT!
+ BVR_advanced_research_desc: "" #NT!
+  
+ BVR_steal_recreational_planes: "Steal Recreational Planes" #NT!
+ BVR_steal_recreational_planes_desc: "" #NT!
+  
+ BVR_the_flying_femboy_concert: "The Flying Femboy Concert" #NT!
+ BVR_the_flying_femboy_concert_desc: "" #NT!
+  
+ BVR_oceans_exists: "Oceans Exist" #NT!
+ BVR_oceans_exists_desc: "" #NT!
+  
+ BVR_throw_someone_into_the_water: "Throw Someone Into The Water" #NT!
+ BVR_throw_someone_into_the_water_desc: "" #NT!
+  
+ BVR_figure_out_what_ships_are_good: "Figure Out What Ships Are Good" #NT!
+ BVR_figure_out_what_ships_are_good_desc: "" #NT!
+  
+ BVR_explosions: "Explosions" #NT!
+ BVR_explosions_desc: "" #NT!
+  
+ BVR_rule_the_waves: "Rule the Waves" #NT!
+ BVR_rule_the_waves_desc: "" #NT!
+  
+ BVR_protect_sock_trade_routes: "Protect the Sock Trade" #NT!
+ BVR_protect_sock_trade_routes_desc: "" #NT!

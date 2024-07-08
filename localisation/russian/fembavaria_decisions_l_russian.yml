@@ -1,0 +1,101 @@
+﻿l_russian:
+ BVR_cuteness: "[ROOT.GetAdjective] Cuteness Factor" #NT!
+ BVR_cuteness_desc: "A very important part of Bavarian society is our cuteness factor. Keeping it high will give buffs to special abilities and political power. Low cuteness gives buffs to combat.\n\nAverage Citizen £uwu  Cuteness Factor: [?ROOT.cuteness|Y0]§Y%§!" #NT!
+ BVR_cute: "Cute Lessons" #NT!
+ BVR_encourage_militarism: "Encourage Militarism" #NT!
+ BVR_mandate_cute_clothing: "Mandate Cute Clothing" #NT!
+ BVR_industrialization_effort: "Industrialization Effort" #NT!
+ BVR_expand_factory_zoning: "Expand Factory Zoning" #NT!
+ BVR_recruit_tomboy_generals: "Recruit Tomboy Generals" #NT!
+ BVR_core_germany: "Make Germany Cute" #NT!
+ BVR_cuteness_training_programs: "Cuteness Training Programs" #NT!
+ BVR_industrial_reorganization: "Industrial Reorganization" #NT!
+ BVR_mandate_cute_flowers_in_hair: "Mandate Flowers in Hair" #NT!
+ BVR_mandate_pretty_boots: "Mandate Pretty Boots" #NT!
+ BVR_mandate_kindness: "Mandate Kindness" #NT!
+ BVR_incorporate_tomboy_forces: "Incorporate Tomboy Forces" #NT!
+ BVR_raise_tomboy_elites: "Raise Tomboy Elites" #NT!
+ BVR_cooperative_training: "Cooperative Training" #NT!
+ BVR_open_mindset: "Open Mindset" #NT!
+ BVR_mandate_cleanliness: "Mandate Cleanliness" #NT!
+ BVR_authorize_more_cute_production: "Authorize More Cute Production" #NT!
+ BVR_export_cuteness: "Export Cuteness" #NT!
+ BVR_cute_city_designs: "Cute City Designs" #NT!
+ BVR_mandate_pagent_participation: "Mandate Pageant Participation" #NT!
+ BVR_pagents_every_week: "Pageants Every Week!" #NT!
+ BVR_the_silly_parade: "The Silly Parade" #NT!
+ BVR_the_scary_parade: "The Scary Parade" #NT!
+ BVR_unite_the_adorable_forces: "Unite the Adorable Forces" #NT!
+ BVR_a_more_perfect_pink: "A More Perfect Pink" #NT!
+ BVR_the_great_country_pagent: "The Great [ROOT.GetName] Pageant" #NT!
+ BVR_ultimate_cuteness: "Ultimate Cuteness" #NT!
+  
+ BVR_open_dating_gui: "Open Dating Interface" #NT!
+  
+ decision_cost_cute_5: "£uwu   §Y-5%§!" #NT!
+ decision_cost_cute_10: "£uwu   §Y-10%§!" #NT!
+ decision_cost_cute_20: "£uwu   §Y-20%§!" #NT!
+ decision_cost_cute_50: "£uwu   §Y-50%§!" #NT!
+  
+ decision_cost_cute_5_blocked: "£uwu   §R-5%§!" #NT!
+ decision_cost_cute_10_blocked: "£uwu   §R-10%§!" #NT!
+ decision_cost_cute_20_blocked: "£uwu   §R-20%§!" #NT!
+ decision_cost_cute_50_blocked: "£uwu   §R-50%§!" #NT!
+  
+  
+ cuteness_20_tooltip: "£uwu  Cuteness Factor: §G+20%§!" #NT!
+ cuteness_15_tooltip: "£uwu  Cuteness Factor: §G+15%§!" #NT!
+ cuteness_10_tooltip: "£uwu  Cuteness Factor: §G+10%§!" #NT!
+ cuteness_5_tooltip: "£uwu  Cuteness Factor: §G+5%§!" #NT!
+ cuteness_minus_5_tooltip: "£uwu  Cuteness Factor: §R-5%§!" #NT!
+ cuteness_minus_10_tooltip: "£uwu  Cuteness Factor: §R-10%§!" #NT!
+ cuteness_minus_20_tooltip: "£uwu  Cuteness Factor: §R-20%§!" #NT!
+ cuteness_upgrade_decision: "Brings our country to a new level of £uwu  §9Cuteness§!\nUnlocks new £GFX_decision_icon_small §YDecisions§!" #NT!
+ better_socks_technology: "Allows the creation of higher leveled £uwu  §9Cute Sock Technology§!" #NT!
+  
+ BVR_femboy_russia: "Our Russian Comrades" #NT!
+ BVR_femboy_russia_desc: "The best oppurtunity to expand our movement lies within the borders of THE SOVIET UNION. We must support a new movement led by Ivan in both the Caucasus and Ukraine.\n\nFem Support in Ukraine: [?BVR.femboyukr|Y0]§Y%§!\nFem Support in the Caucasus: [?BVR.femboycau|Y0]§Y%§!" #NT!
+  
+ BVR_send_ivan_to_russia: "Send Ivan to Russia" #NT!
+ BVR_ukraine_campaigns: "Ukraine Campaigns" #NT!
+ BVR_caucasus_campaign: "Caucasus Campaigns" #NT!
+ BVR_russian_femboy_investments: "Russian Fem Investments" #NT!
+ BVR_takeover_sevastapol: "The Sevastopol Riot" #NT!
+ BVR_the_southern_revolution: "The Southern Revolution" #NT!
+ BVR_the_femboy_coup: "The Feminine Coup" #NT!
+  
+ BVR_cute_comrades: "Our Cute Comrades" #NT!
+ BVR_switch_to_russia: "Switch to Russia" #NT!
+ BVR_switch_to_russia_desc: "Lets us switch which nation we control. We can switch back at any time as long as both countries are adorablex." #NT!
+ BVR_switch_to_germany: "Switch to Germany" #NT!
+ BVR_switch_to_germany_desc: "Lets us switch which nation we control. We can switch back at any time as long as both countries are adorablex." #NT!
+ BVR_switch_to_tyrol: "Switch to Tyrol" #NT!
+ BVR_switch_to_tyrol_desc: "Lets us switch which nation we control. We can switch back at any time as long as both countries are adorablex." #NT!
+  
+ ivan_in_russia: "Ivan has been sent to Russia." #NT!
+ final_femboy_russia_tooltip: "Taking this decision will §GCreate§! a new Russian fem nation." #NT!
+ ukrsup5: "Increases support in §YUkraine§! by §G5%§!." #NT!
+ ukrsup20: "Increases support in §YUkraine§! by §G20%§!." #NT!
+ ukrsup20d: "Decreaes support in §YUkraine§! by §R20%§!." #NT!
+ ukrsup10: "Increases support in §YUkraine§! by §G10%§!." #NT!
+ ukrcausup10: "Increases support in §YUkraine§! and the §YCaucasus§! by §G10%§!." #NT!
+  
+ causup5: "Increases support in the §YCaucasus§! by §G5%§!." #NT!
+ causup10: "Increases support in the §YCaucasus§! by §G10%§!." #NT!
+ causup20: "Increases support in the §YCaucasus§! by §G20%§!." #NT!
+  
+ PAT_holy_order: "The Holy Order of Headpats" #NT!
+  
+ PAT_holy_inquisition: "Holy Inquisition" #NT!
+ PAT_build_sevastapol_order_hq: "Build Savastopol Order HQ" #NT!
+ PAT_build_kiev_order_hq: "Build Kiev Order HQ" #NT!
+ PAT_build_baku_order_hq: "Build Baku Order HQ" #NT!
+ PAT_build_instanbul_order_hq: "Build Istanbul Order HQ" #NT!
+ PAT_integrate_turkey: "Integrate Turkey" #NT!
+ PAT_rebuild_sevastapol: "Rebuilding Savastopol" #NT!
+ PAT_the_ritual_of_war: "The Ritual of War" #NT!
+ PAT_the_ritual_of_pats: "The Ritual of Pats" #NT!
+ PAT_takeover_ukraine: "Takeover Ukraine" #NT!
+  
+ FEMBOYTOPIA: "Femtopia" #NT!
+ TSARGRAD: "Tsargrad" #NT!

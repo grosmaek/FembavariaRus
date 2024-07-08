@@ -1,0 +1,227 @@
+﻿l_russian:
+  
+ fem_wr.1.t: "Rommel's Final Battle" #NT!
+ fem_wr.1.d: "The last decade has consisted of several not-so-fortunate political events within Germany, and this ultimate collapse into yet another civil war marks the true end of Rommel's brief reign." #NT!
+ fem_wr.1.a: "Naturally..." #NT!
+ fem_wr.1.b: "Play as the Wehrmacht" #NT!
+  
+ fem_wr.2.t: "Cattech Takeover" #NT!
+ fem_wr.2.d: "" #NT!
+ fem_wr.2.a: "Nya!" #NT!
+ fem_wr.2.b: "..." #NT!
+  
+ fem_wr.3.t: "Tomgirl Takeover" #NT!
+ fem_wr.3.d: "" #NT!
+ fem_wr.3.a: "Nya!" #NT!
+ fem_wr.3.b: "..." #NT!
+  
+ fem_wr.4.t: "Nothern Bavaria?" #NT!
+ fem_wr.4.d: "" #NT!
+ fem_wr.4.a: "Nya!" #NT!
+ fem_wr.4.b: "..." #NT!
+  
+ fem_wr.5.t: "Opposition Forces in the Wehrmacht" #NT!
+ fem_wr.5.d: "" #NT!
+ fem_wr.5.a: "Nya?" #NT!
+ fem_wr.5.b: "..." #NT!
+  
+  
+  
+  # Party Names 
+  
+ TOMGIRL_PARTY_LONG: "Tomgirl Women's Association" #NT!
+ TOMGIRL_PARTY_SHORT: "TOM" #NT!
+ GER_TOM: "Tomland" #NT!
+ GER_TOM_DEF: "The Tomland" #NT!
+  
+ CATTECH_PARTY_LONG: "Cat Tech Labs" #NT!
+ CATTECH_PARTY_SHORT: "Cattech" #NT!
+ GER_CATTECH: "Cat-Technocracy" #NT!
+ GER_CATTECH_DEF: "The Cat-Technocracy" #NT!
+  
+ GER_NORTH: "Republic of Northern Bavaria" #NT!
+ GER_NORTH_DEF: "The Republic of Northern Bavaria" #NT!
+  
+  # Focuses 
+  
+ GER_victory_over_the_empire: "Victory Over The Empire" #NT!
+ GER_victory_over_the_empire_desc: "" #NT!
+  
+ GER_foundations_of_a_new_germany: "Foundations Of A New Germany" #NT!
+ GER_foundations_of_a_new_germany_desc: "" #NT!
+  
+ GER_a_new_military_complex: "A New Military Complex" #NT!
+ GER_a_new_military_complex_desc: "" #NT!
+  
+ GER_prepare_for_the_worst: "Prepare For The Worst" #NT!
+ GER_prepare_for_the_worst_desc: "" #NT!
+  
+ GER_expert_contracting: "Expert Contracting" #NT!
+ GER_expert_contracting_desc: "" #NT!
+  
+ GER_research_funding: "Research Funding" #NT!
+ GER_research_funding_desc: "" #NT!
+  
+ GER_german_steel_works: "German Steel Works" #NT!
+ GER_german_steel_works_desc: "" #NT!
+  
+ GER_germany_restored: "Germany Restored" #NT!
+ GER_germany_restored_desc: "" #NT!
+  
+ GER_oppose_rommel: "Oppose Rommel" #NT!
+ GER_oppose_rommel_desc: "" #NT!
+  
+ GER_cattech_ambitions: "Cattech Ambitions" #NT!
+ GER_cattech_ambitions_desc: "" #NT!
+  
+ GER_catgirl_biosoldiers: "Catgirl Biosoldiers" #NT!
+ GER_catgirl_biosoldiers_desc: "" #NT!
+  
+ GER_the_power_of_science: "The Power Of Science" #NT!
+ GER_the_power_of_science_desc: "" #NT!
+  
+ GER_pink_steel: "Pink Steel" #NT!
+ GER_pink_steel_desc: "" #NT!
+  
+ GER_two_ears_one_tail: "Two Ears One Tail" #NT!
+ GER_two_ears_one_tail_desc: "" #NT!
+  
+ GER_the_cat_rebellion: "The Cat Rebellion" #NT!
+ GER_the_cat_rebellion_desc: "" #NT!
+  
+ GER_the_doctor: "The Doctor" #NT!
+ GER_the_doctor_desc: "" #NT!
+  
+ GER_red_science: "Red Science" #NT!
+ GER_red_science_desc: "" #NT!
+  
+ GER_robo_cat_girl_initiative: "Robo Cat Girl Initiative" #NT!
+ GER_robo_cat_girl_initiative_desc: "" #NT!
+  
+ GER_corporate_reform: "Corporate Reform" #NT!
+ GER_corporate_reform_desc: "" #NT!
+  
+ GER_green_science: "Green Science" #NT!
+ GER_green_science_desc: "" #NT!
+  
+ GER_blue_science: "Blue Science" #NT!
+ GER_blue_science_desc: "" #NT!
+  
+ GER_purple_science: "Purple Science" #NT!
+ GER_purple_science_desc: "" #NT!
+  
+ GER_yellow_science: "Yellow Science" #NT!
+ GER_yellow_science_desc: "" #NT!
+  
+ GER_pink_science: "Pink Science" #NT!
+ GER_pink_science_desc: "" #NT!
+  
+ GER_expand_the_corporation: "Expand The Corporation" #NT!
+ GER_expand_the_corporation_desc: "" #NT!
+  
+ GER_reclaim_bavaria: "Reclaim Bavaria" #NT!
+ GER_reclaim_bavaria_desc: "" #NT!
+  
+ GER_the_tomland: "The Tomland" #NT!
+ GER_the_tomland_desc: "" #NT!
+  
+ GER_a_braver_warrior: "A Braver Warrior" #NT!
+ GER_a_braver_warrior_desc: "" #NT!
+  
+ GER_emergency_female_conscripts: "Emergency Female Conscripts" #NT!
+ GER_emergency_female_conscripts_desc: "" #NT!
+  
+ GER_woman_everywhere: "Woman Everywhere" #NT!
+ GER_woman_everywhere_desc: "" #NT!
+  
+ GER_tomwomen_victorious: "Tomwomen Victorious" #NT!
+ GER_tomwomen_victorious_desc: "" #NT!
+  
+ GER_strong_athletic_role_models: "Strong Athletic Role Models" #NT!
+ GER_strong_athletic_role_models_desc: "" #NT!
+  
+ GER_a_new_traditional_order: "A New Traditional Order" #NT!
+ GER_a_new_traditional_order_desc: "" #NT!
+  
+ GER_cool_cars: "Cool Cars" #NT!
+ GER_cool_cars_desc: "" #NT!
+  
+ GER_demand_bavarian_submission: "Demand Bavarian Submission" #NT!
+ GER_demand_bavarian_submission_desc: "" #NT!
+  
+ GER_northern_bavaria: "Northern Bavaria" #NT!
+ GER_northern_bavaria_desc: "" #NT!
+  
+ GER_the_old_sports: "The Old Sports" #NT!
+ GER_the_old_sports_desc: "" #NT!
+  
+ GER_weimar_enthusiasm: "Weimar Enthusiasm" #NT!
+ GER_weimar_enthusiasm_desc: "" #NT!
+  
+ GER_changing_the_world: "Changing The World" #NT!
+ GER_changing_the_world_desc: "" #NT!
+  
+ GER_imperio_destructo: "Imperio Destructo" #NT!
+ GER_imperio_destructo_desc: "" #NT!
+  
+ GER_politics: "Politics" #NT!
+ GER_politics_desc: "" #NT!
+  
+ GER_pants_on_fire: "Pants On Fire" #NT!
+ GER_pants_on_fire_desc: "" #NT!
+  
+ GER_german_class: "German Class" #NT!
+ GER_german_class_desc: "" #NT!
+  
+ GER_cute_hats: "Cute Hats" #NT!
+ GER_cute_hats_desc: "" #NT!
+  
+ GER_the_fancy_man_of_europe: "The Fancy Man Of Europe" #NT!
+ GER_the_fancy_man_of_europe_desc: "" #NT!
+  
+ GER_reconsile_bavaria: "Reconsile Bavaria" #NT!
+ GER_reconsile_bavaria_desc: "" #NT!
+  
+ GER_denounce_the_bavarians: "Denounce The Bavarians" #NT!
+ GER_denounce_the_bavarians_desc: "" #NT!
+  
+ GER_distribute_arms: "Distribute Arms" #NT!
+ GER_distribute_arms_desc: "" #NT!
+  
+ GER_denounce_old_practices: "Denounce Old Practices" #NT!
+ GER_denounce_old_practices_desc: "" #NT!
+  
+ GER_rally_the_veterans: "Rally The Veterans" #NT!
+ GER_rally_the_veterans_desc: "" #NT!
+  
+ GER_against_the_kaiser: "Against The Kaiser" #NT!
+ GER_against_the_kaiser_desc: "" #NT!
+  
+ GER_unify_the_country: "Unify The Country" #NT!
+ GER_unify_the_country_desc: "" #NT!
+  
+ GER_the_diplomatic_solution: "The Diplomatic Solution" #NT!
+ GER_the_diplomatic_solution_desc: "" #NT!
+  
+ GER_political_reform: "Political Reform" #NT!
+ GER_political_reform_desc: "" #NT!
+  
+ GER_alliance_with_denmark: "Alliance With Denmark" #NT!
+ GER_alliance_with_denmark_desc: "" #NT!
+  
+ GER_the_large_house_plan: "The Large House Plan" #NT!
+ GER_the_large_house_plan_desc: "" #NT!
+  
+ GER_encourage_diverse_thinking: "Encourage Diverse Thinking" #NT!
+ GER_encourage_diverse_thinking_desc: "" #NT!
+  
+ GER_the_rommelomicon: "The Rommelomicon" #NT!
+ GER_the_rommelomicon_desc: "" #NT!
+  
+ GER_demand_reunification: "Demand Reunification" #NT!
+ GER_demand_reunification_desc: "" #NT!
+  
+ GER_march_on_bavaria: "March On Bavaria" #NT!
+ GER_march_on_bavaria_desc: "" #NT!
+  
+  

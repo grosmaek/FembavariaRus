@@ -1,0 +1,186 @@
+﻿l_russian:
+ PAT_modern_fashion: "Modern Fashion" #NT!
+ PAT_modern_fashion_desc: "1930s fashion for both men and women is UGLY. It's time to switch up our style and embrace something more modern." #NT!
+  
+ PAT_ramp_up_production: "Ramp up Production" #NT!
+ PAT_ramp_up_production_desc: "" #NT!
+ PAT_prodcution_tooltip_1: "§1Once the next tier is developed, enough socks will be produced to allow for use in the military and by regular citizens outside the factories.§!" #NT!
+  
+ PAT_expand_the_sowing_complex: "Expand the Sewing Complex" #NT!
+ PAT_expand_the_sowing_complex_desc: "" #NT!
+  
+ PAT_ensure_excellent_quality: "Ensure Excellent Quality" #NT!
+ PAT_ensure_excellent_quality_desc: "" #NT!
+ PAT_prodcution_tooltip_2: "§1The next tier of socks will be much more comfrtable and make those who wear them happy and less likely to revolt.§!" #NT!
+  
+ PAT_tier_II_socks: "Tier II Socks" #NT!
+ PAT_tier_II_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ PAT_experimental_fabric: "Experimental Fabric" #NT!
+ PAT_experimental_fabric_desc: "" #NT!
+ PAT_prodcution_tooltip_3: "§1The next tier of socks will use experimental fabric that will increase worker efficiently.§!" #NT!
+  
+ PAT_bullet_proof_bows: "Bullet Proof Bows" #NT!
+ PAT_bullet_proof_bows_desc: "" #NT!
+ PAT_prodcution_tooltip_4: "§1The next tier of socks will use use bullet proof bows to increase defense.§!" #NT!
+  
+ PAT_cheap_as_dirt: "Cheap as Dirt" #NT!
+ PAT_cheap_as_dirt_desc: "" #NT!
+ PAT_prodcution_tooltip_5: "§1The next tier of socks will be easy to produce and reduce strain on production efficiency.§!" #NT!
+  
+ PAT_tier_III_socks: "Tier III Socks" #NT!
+ PAT_tier_III_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ PAT_performance_enhancing_fiber: "Performance Enhancing Fiber" #NT!
+ PAT_performance_enhancing_fiber_desc: "" #NT!
+ PAT_prodcution_tooltip_6: "§1The next tier of socks will increase movement speed and production efficiency.§!" #NT!
+  
+ PAT_increased_enemy_distraction: "Increased Enemy Distraction" #NT!
+ PAT_increased_enemy_distraction_desc: "" #NT!
+ PAT_prodcution_tooltip_7: "§1The next tier of socks will be designed to distract enemies. Tricking them into gazing at them for far too long.§!" #NT!
+  
+ PAT_built_in_autopilot: "Built in Autopilot" #NT!
+ PAT_built_in_autopilot_desc: "" #NT!
+ PAT_prodcution_tooltip_8: "§1The next tier of socks will have mechanized movement capabilities and allow for literal forced marches.§!" #NT!
+  
+ PAT_tier_IV_socks: "Tier IV Socks" #NT!
+ PAT_tier_IV_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ PAT_immortality_charm: "Immortality Charm" #NT!
+ PAT_immortality_charm_desc: "" #NT!
+ PAT_prodcution_tooltip_9: "§1The next tier of socks will slow the aging process and help its user never age a day over thirty.§!" #NT!
+  
+ PAT_shapeshifting_enhancements: "Shapeshifting Enhancement" #NT!
+ PAT_shapeshifting_enhancements_desc: "" #NT!
+ PAT_prodcution_tooltip_10: "§1The next tier of socks will be able to morph and asist its wearing with whatever work they are trying to accomplish.§!" #NT!
+  
+ PAT_cognitive_enhancer: "Cognitive Enhancer" #NT!
+ PAT_cognitive_enhancer_desc: "" #NT!
+ PAT_prodcution_tooltip_11: "§1The next tier of socks will increase its user's cognitive abilities. Increasing both combat abilities and production skills.§!" #NT!
+  
+ PAT_tier_V_socks: "Tier V Socks" #NT!
+ PAT_tier_V_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ PAT_built_in_rocket_launcher: "Built in Rocket Launcher" #NT!
+ PAT_built_in_rocket_launcher_desc: "" #NT!
+ PAT_prodcution_tooltip_12: "§1The next tier of socks will have built in rocket launchers for emergency use against enemies to Bavaria.§!" #NT!
+  
+ PAT_infinite_storage: "Infinite Storage" #NT!
+ PAT_infinite_storage_desc: "" #NT!
+ PAT_prodcution_tooltip_13: "§1The next tier of socks will be able to store an infinite amoung of belongings without ruining their appearance.§!" #NT!
+  
+ PAT_flight_capabilities: "Flight Capabilities" #NT!
+ PAT_flight_capabilities_desc: "" #NT!
+ PAT_prodcution_tooltip_14: "§1The next tier of socks will use experimental fight tech that will allow the users to have some flight abilities.§!" #NT!
+  
+ PAT_tier_VI_socks: "Tier VI Socks" #NT!
+ PAT_tier_VI_socks_desc: "It's time to use what we've learned and make a new tier of socks!" #NT!
+  
+ PAT_plasma_field: "Plasma Field" #NT!
+ PAT_plasma_field_desc: "" #NT!
+ PAT_prodcution_tooltip_15: "§1The final tier of socks will include several turrets with the ability to create a plasma field around them.§!" #NT!
+  
+ PAT_infinite_comfort: "Infinite Comfort" #NT!
+ PAT_infinite_comfort_desc: "" #NT!
+ PAT_prodcution_tooltip_16: "§1The final tier of socks will give its user infinite comfort beyond what was once thought possible.§!" #NT!
+  
+ PAT_teleportation_chip: "Teleportation Chip" #NT!
+ PAT_teleportation_chip_desc: "" #NT!
+ PAT_prodcution_tooltip_17: "§1The final tier of socks will allow for short-range teleportation abilities.§!" #NT!
+  
+ PAT_tier_VII_socks: "Tier VII Socks" #NT!
+ PAT_tier_VII_socks_desc: "It's time to use what we've learned and make a final tier of socks!" #NT!
+  
+ PAT_dreams_of_a_pink_russia: "Dreams of a Pink Russia" #NT!
+ PAT_dreams_of_a_pink_russia_desc: "" #NT!
+  
+ PAT_the_pat-triarch: "The Pat-triarch" #NT!
+ PAT_the_pat-triarch_desc: "" #NT!
+  
+ PAT_the_father_of_beauty: "The Father of Beauty" #NT!
+ PAT_the_father_of_beauty_desc: "" #NT!
+  
+ PAT_the_father_of_fashion: "The Father of Fashion" #NT!
+ PAT_the_father_of_fashion_desc: "" #NT!
+  
+ PAT_the_father_of_art: "The Father of Art" #NT!
+ PAT_the_father_of_art_desc: "" #NT!
+  
+ PAT_cuddle_with_communism: "Cuddle with Communism" #NT!
+ PAT_cuddle_with_communism_desc: "" #NT!
+  
+ PAT_socialism_is_silly: "Socialism is Silly" #NT!
+ PAT_socialism_is_silly_desc: "" #NT!
+  
+ PAT_the_fem_language_theory: "The Fem Language Theory" #NT!
+ PAT_the_fem_language_theory_desc: "" #NT!
+  
+ PAT_bavarian_connections: "Bavarian Connections" #NT!
+ PAT_bavarian_connections_desc: "" #NT!
+  
+ PAT_the_pink_manifesto: "The Pink Manifesto" #NT!
+ PAT_the_pink_manifesto_desc: "" #NT!
+  
+ PAT_the_holy_one: "The Holy One" #NT!
+ PAT_the_holy_one_desc: "" #NT!
+  
+ PAT_the_holy_order_of_headpats: "The Holy Order of Headpats" #NT!
+ PAT_the_holy_order_of_headpats_desc: "" #NT!
+ PAT_holy_order_tooltip: "Unlocks £GFX_decision_icon_small §YDecisions§! to expand the holy order!" #NT!
+  
+ PAT_the_clone_wars: "The Clone Wars" #NT!
+ PAT_the_clone_wars_desc: "" #NT!
+  
+ PAT_conscription_with_benefits: "Conscription with Benefits" #NT!
+ PAT_conscription_with_benefits_desc: "" #NT!
+  
+ PAT_the_pink_council: "The Pink Council" #NT!
+ PAT_the_pink_council_desc: "" #NT!
+ PAT_the_pink_council_tooltip: "Unlocks £GFX_decision_icon_small §YDecisions§! to develop Pink Russia!" #NT!
+  
+ PAT_an_order_without_gender: "An Order Without Gender" #NT!
+ PAT_an_order_without_gender_desc: "" #NT!
+  
+ PAT_winter_socks: "Winter Socks" #NT!
+ PAT_winter_socks_desc: "" #NT!
+  
+ PAT_soviets_reborn: "Soviets Reborn" #NT!
+ PAT_soviets_reborn_desc: "" #NT!
+ PAT_soviets_tooltip: "Our new domain will be shaped in the image of the Soviet Republics!" #NT!
+  
+ PAT_the_empire_reborn: "The Empire Reborn" #NT!
+ PAT_the_empire_reborn_desc: "" #NT!
+ PAT_empire_tooltip: "Our new domain will be shaped in the image of the old Russian Empire!" #NT!
+  
+ PAT_begin_the_ritual: "Begin the Ritual" #NT!
+ PAT_begin_the_ritual_desc: "" #NT!
+ PAT_ritual_tooltip: "Unlocks ritual £GFX_decision_icon_small §YDecisions§!" #NT!
+  
+ PAT_behold: "Behold" #NT!
+ PAT_behold_desc: "" #NT!
+  
+ PAT_harbinger_of_heaven: "Harbinger of Heaven" #NT!
+ PAT_harbinger_of_heaven_desc: "" #NT!
+  
+ PAT_a_pink_front: "A Pink Front" #NT!
+ PAT_a_pink_front_desc: "" #NT!
+  
+ PAT_enter_ukraine: "Enter Ukraine" #NT!
+ PAT_enter_ukraine_desc: "" #NT!
+ PAT_enter_ukraine_tooltip: "Unlocks £GFX_decision_icon_small §YDecisions§! to take over Ukraine!" #NT!
+  
+ PAT_bessarabian_revolution: "Bessarabian Revolution" #NT!
+ PAT_bessarabian_revolution_desc: "" #NT!
+  
+ PAT_a_holy_navy: "A Holy Navy" #NT!
+ PAT_a_holy_navy_desc: "" #NT!
+  
+ PAT_for_the_patriarch: "For the Patriarch" #NT!
+ PAT_for_the_patriarch_desc: "" #NT!
+  
+ PAT_in_the_heavens: "In the Heavens" #NT!
+ PAT_in_the_heavens_desc: "" #NT!
+  
+ PAT_a_free_russia: "A Free Russia" #NT!
+ PAT_a_free_russia_desc: "" #NT!
+  
