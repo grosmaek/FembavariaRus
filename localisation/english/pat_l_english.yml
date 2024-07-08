@@ -1,0 +1,186 @@
+﻿l_english:
+PAT_modern_fashion:0 "Modern Fashion"
+PAT_modern_fashion_desc:0 "1930s fashion for both men and women is UGLY. It's time to switch up our style and embrace something more modern."
+
+PAT_ramp_up_production:0 "Ramp up Production"
+PAT_ramp_up_production_desc:0 ""
+PAT_prodcution_tooltip_1:0 "§1Once the next tier is developed, enough socks will be produced to allow for use in the military and by regular citizens outside the factories.§!"
+
+PAT_expand_the_sowing_complex:0 "Expand the Sewing Complex"
+PAT_expand_the_sowing_complex_desc:0 ""
+
+PAT_ensure_excellent_quality:0 "Ensure Excellent Quality"
+PAT_ensure_excellent_quality_desc:0 ""
+PAT_prodcution_tooltip_2:0 "§1The next tier of socks will be much more comfrtable and make those who wear them happy and less likely to revolt.§!"
+
+PAT_tier_II_socks:0 "Tier II Socks"
+PAT_tier_II_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+PAT_experimental_fabric:0 "Experimental Fabric"
+PAT_experimental_fabric_desc:0 ""
+PAT_prodcution_tooltip_3:0 "§1The next tier of socks will use experimental fabric that will increase worker efficiently.§!"
+
+PAT_bullet_proof_bows:0 "Bullet Proof Bows"
+PAT_bullet_proof_bows_desc:0 ""
+PAT_prodcution_tooltip_4:0 "§1The next tier of socks will use use bullet proof bows to increase defense.§!"
+
+PAT_cheap_as_dirt:0 "Cheap as Dirt"
+PAT_cheap_as_dirt_desc:0 ""
+PAT_prodcution_tooltip_5:0 "§1The next tier of socks will be easy to produce and reduce strain on production efficiency.§!"
+
+PAT_tier_III_socks:0 "Tier III Socks"
+PAT_tier_III_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+PAT_performance_enhancing_fiber:0 "Performance Enhancing Fiber"
+PAT_performance_enhancing_fiber_desc:0 ""
+PAT_prodcution_tooltip_6:0 "§1The next tier of socks will increase movement speed and production efficiency.§!"
+
+PAT_increased_enemy_distraction:0 "Increased Enemy Distraction"
+PAT_increased_enemy_distraction_desc:0 ""
+PAT_prodcution_tooltip_7:0 "§1The next tier of socks will be designed to distract enemies. Tricking them into gazing at them for far too long.§!"
+
+PAT_built_in_autopilot:0 "Built in Autopilot"
+PAT_built_in_autopilot_desc:0 ""
+PAT_prodcution_tooltip_8:0 "§1The next tier of socks will have mechanized movement capabilities and allow for literal forced marches.§!"
+
+PAT_tier_IV_socks:0 "Tier IV Socks"
+PAT_tier_IV_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+PAT_immortality_charm:0 "Immortality Charm"
+PAT_immortality_charm_desc:0 ""
+PAT_prodcution_tooltip_9:0 "§1The next tier of socks will slow the aging process and help its user never age a day over thirty.§!"
+
+PAT_shapeshifting_enhancements:0 "Shapeshifting Enhancement"
+PAT_shapeshifting_enhancements_desc:0 ""
+PAT_prodcution_tooltip_10:0 "§1The next tier of socks will be able to morph and asist its wearing with whatever work they are trying to accomplish.§!"
+
+PAT_cognitive_enhancer:0 "Cognitive Enhancer"
+PAT_cognitive_enhancer_desc:0 ""
+PAT_prodcution_tooltip_11:0 "§1The next tier of socks will increase its user's cognitive abilities. Increasing both combat abilities and production skills.§!"
+
+PAT_tier_V_socks:0 "Tier V Socks"
+PAT_tier_V_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+PAT_built_in_rocket_launcher:0 "Built in Rocket Launcher"
+PAT_built_in_rocket_launcher_desc:0 ""
+PAT_prodcution_tooltip_12:0 "§1The next tier of socks will have built in rocket launchers for emergency use against enemies to Bavaria.§!"
+
+PAT_infinite_storage:0 "Infinite Storage"
+PAT_infinite_storage_desc:0 ""
+PAT_prodcution_tooltip_13:0 "§1The next tier of socks will be able to store an infinite amoung of belongings without ruining their appearance.§!"
+
+PAT_flight_capabilities:0 "Flight Capabilities"
+PAT_flight_capabilities_desc:0 ""
+PAT_prodcution_tooltip_14:0 "§1The next tier of socks will use experimental fight tech that will allow the users to have some flight abilities.§!"
+
+PAT_tier_VI_socks:0 "Tier VI Socks"
+PAT_tier_VI_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+PAT_plasma_field:0 "Plasma Field"
+PAT_plasma_field_desc:0 ""
+PAT_prodcution_tooltip_15:0 "§1The final tier of socks will include several turrets with the ability to create a plasma field around them.§!"
+
+PAT_infinite_comfort:0 "Infinite Comfort"
+PAT_infinite_comfort_desc:0 ""
+PAT_prodcution_tooltip_16:0 "§1The final tier of socks will give its user infinite comfort beyond what was once thought possible.§!"
+
+PAT_teleportation_chip:0 "Teleportation Chip"
+PAT_teleportation_chip_desc:0 ""
+PAT_prodcution_tooltip_17:0 "§1The final tier of socks will allow for short-range teleportation abilities.§!"
+
+PAT_tier_VII_socks:0 "Tier VII Socks"
+PAT_tier_VII_socks_desc:0 "It's time to use what we've learned and make a final tier of socks!"
+
+PAT_dreams_of_a_pink_russia:0 "Dreams of a Pink Russia"
+PAT_dreams_of_a_pink_russia_desc:0 ""
+
+PAT_the_pat-triarch:0 "The Pat-triarch"
+PAT_the_pat-triarch_desc:0 ""
+
+PAT_the_father_of_beauty:0 "The Father of Beauty"
+PAT_the_father_of_beauty_desc:0 ""
+
+PAT_the_father_of_fashion:0 "The Father of Fashion"
+PAT_the_father_of_fashion_desc:0 ""
+
+PAT_the_father_of_art:0 "The Father of Art"
+PAT_the_father_of_art_desc:0 ""
+
+PAT_cuddle_with_communism:0 "Cuddle with Communism"
+PAT_cuddle_with_communism_desc:0 ""
+
+PAT_socialism_is_silly:0 "Socialism is Silly"
+PAT_socialism_is_silly_desc:0 ""
+
+PAT_the_fem_language_theory:0 "The Fem Language Theory"
+PAT_the_fem_language_theory_desc:0 ""
+
+PAT_bavarian_connections:0 "Bavarian Connections"
+PAT_bavarian_connections_desc:0 ""
+
+PAT_the_pink_manifesto:0 "The Pink Manifesto"
+PAT_the_pink_manifesto_desc:0 ""
+
+PAT_the_holy_one:0 "The Holy One"
+PAT_the_holy_one_desc:0 ""
+
+PAT_the_holy_order_of_headpats:0 "The Holy Order of Headpats"
+PAT_the_holy_order_of_headpats_desc:0 ""
+PAT_holy_order_tooltip:0 "Unlocks £GFX_decision_icon_small §YDecisions§! to expand the holy order!"
+
+PAT_the_clone_wars:0 "The Clone Wars"
+PAT_the_clone_wars_desc:0 ""
+
+PAT_conscription_with_benefits:0 "Conscription with Benefits"
+PAT_conscription_with_benefits_desc:0 ""
+
+PAT_the_pink_council:0 "The Pink Council"
+PAT_the_pink_council_desc:0 ""
+PAT_the_pink_council_tooltip:0 "Unlocks £GFX_decision_icon_small §YDecisions§! to develop Pink Russia!"
+
+PAT_an_order_without_gender:0 "An Order Without Gender"
+PAT_an_order_without_gender_desc:0 ""
+
+PAT_winter_socks:0 "Winter Socks"
+PAT_winter_socks_desc:0 ""
+
+PAT_soviets_reborn:0 "Soviets Reborn"
+PAT_soviets_reborn_desc:0 ""
+PAT_soviets_tooltip:0 "Our new domain will be shaped in the image of the Soviet Republics!"
+
+PAT_the_empire_reborn:0 "The Empire Reborn"
+PAT_the_empire_reborn_desc:0 ""
+PAT_empire_tooltip:0 "Our new domain will be shaped in the image of the old Russian Empire!"
+
+PAT_begin_the_ritual:0 "Begin the Ritual"
+PAT_begin_the_ritual_desc:0 ""
+PAT_ritual_tooltip:0 "Unlocks ritual £GFX_decision_icon_small §YDecisions§!"
+ 
+PAT_behold:0 "Behold"
+PAT_behold_desc:0 ""
+
+PAT_harbinger_of_heaven:0 "Harbinger of Heaven"
+PAT_harbinger_of_heaven_desc:0 ""
+
+PAT_a_pink_front:0 "A Pink Front"
+PAT_a_pink_front_desc:0 ""
+
+PAT_enter_ukraine:0 "Enter Ukraine"
+PAT_enter_ukraine_desc:0 ""
+PAT_enter_ukraine_tooltip:0 "Unlocks £GFX_decision_icon_small §YDecisions§! to take over Ukraine!"
+
+PAT_bessarabian_revolution:0 "Bessarabian Revolution"
+PAT_bessarabian_revolution_desc:0 ""
+
+PAT_a_holy_navy:0 "A Holy Navy"
+PAT_a_holy_navy_desc:0 ""
+
+PAT_for_the_patriarch:0 "For the Patriarch"
+PAT_for_the_patriarch_desc:0 ""
+
+PAT_in_the_heavens:0 "In the Heavens"
+PAT_in_the_heavens_desc:0 ""
+
+PAT_a_free_russia:0 "A Free Russia"
+PAT_a_free_russia_desc:0 ""
+ 

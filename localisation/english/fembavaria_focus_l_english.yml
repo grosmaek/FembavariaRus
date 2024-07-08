@@ -1,0 +1,668 @@
+﻿l_english:
+
+# Generic
+
+CUTE_modern_fashion:0 "Modern Fashion"
+CUTE_modern_fashion_desc:0 "1930s fashion for both men and women is UGLY. It's time to switch up our style and embrace something more modern."
+
+CUTE_ramp_up_production:0 "Ramp up Production"
+CUTE_ramp_up_production_desc:0 ""
+CUTE_prodcution_tooltip_1:0 "§1Once the next tier is developed, enough socks will be produced to allow for use in the military and by regular citizens outside the factories.§!"
+
+CUTE_expand_the_sowing_complex:0 "Expand the Sewing Complex"
+CUTE_expand_the_sowing_complex_desc:0 ""
+
+CUTE_ensure_excellent_quality:0 "Ensure Excellent Quality"
+CUTE_ensure_excellent_quality_desc:0 ""
+CUTE_prodcution_tooltip_2:0 "§1The next tier of socks will be much more comfrtable and make those who wear them happy and less likely to revolt.§!"
+
+CUTE_tier_II_socks:0 "Tier II Socks"
+CUTE_tier_II_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+CUTE_experimental_fabric:0 "Experimental Fabric"
+CUTE_experimental_fabric_desc:0 ""
+CUTE_prodcution_tooltip_3:0 "§1The next tier of socks will use experimental fabric that will increase worker efficiently.§!"
+
+CUTE_bullet_proof_bows:0 "Bullet Proof Bows"
+CUTE_bullet_proof_bows_desc:0 ""
+CUTE_prodcution_tooltip_4:0 "§1The next tier of socks will use use bullet proof bows to increase defense.§!"
+
+CUTE_cheap_as_dirt:0 "Cheap as Dirt"
+CUTE_cheap_as_dirt_desc:0 ""
+CUTE_prodcution_tooltip_5:0 "§1The next tier of socks will be easy to produce and reduce strain on production efficiency.§!"
+
+CUTE_tier_III_socks:0 "Tier III Socks"
+CUTE_tier_III_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+CUTE_performance_enhancing_fiber:0 "Performance Enhancing Fiber"
+CUTE_performance_enhancing_fiber_desc:0 ""
+CUTE_prodcution_tooltip_6:0 "§1The next tier of socks will increase movement speed and production efficiency.§!"
+
+CUTE_increased_enemy_distraction:0 "Increased Enemy Distraction"
+CUTE_increased_enemy_distraction_desc:0 ""
+CUTE_prodcution_tooltip_7:0 "§1The next tier of socks will be designed to distract enemies. Tricking them into gazing at them for far too long.§!"
+
+CUTE_built_in_autopilot:0 "Built in Autopilot"
+CUTE_built_in_autopilot_desc:0 ""
+CUTE_prodcution_tooltip_8:0 "§1The next tier of socks will have mechanized movement capabilities and allow for literal forced marches.§!"
+
+CUTE_tier_IV_socks:0 "Tier IV Socks"
+CUTE_tier_IV_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+CUTE_immortality_charm:0 "Immortality Charm"
+CUTE_immortality_charm_desc:0 ""
+CUTE_prodcution_tooltip_9:0 "§1The next tier of socks will slow the aging process and help its user never age a day over thirty.§!"
+
+CUTE_shapeshifting_enhancements:0 "Shapeshifting Enhancement"
+CUTE_shapeshifting_enhancements_desc:0 ""
+CUTE_prodcution_tooltip_10:0 "§1The next tier of socks will be able to morph and asist its wearing with whatever work they are trying to accomplish.§!"
+
+CUTE_cognitive_enhancer:0 "Cognitive Enhancer"
+CUTE_cognitive_enhancer_desc:0 ""
+CUTE_prodcution_tooltip_11:0 "§1The next tier of socks will increase its user's cognitive abilities. Increasing both combat abilities and production skills.§!"
+
+CUTE_tier_V_socks:0 "Tier V Socks"
+CUTE_tier_V_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+CUTE_built_in_rocket_launcher:0 "Built in Rocket Launcher"
+CUTE_built_in_rocket_launcher_desc:0 ""
+CUTE_prodcution_tooltip_12:0 "§1The next tier of socks will have built in rocket launchers for emergency use against enemies to Bavaria.§!"
+
+CUTE_infinite_storage:0 "Infinite Storage"
+CUTE_infinite_storage_desc:0 ""
+CUTE_prodcution_tooltip_13:0 "§1The next tier of socks will be able to store an infinite amoung of belongings without ruining their appearance.§!"
+
+CUTE_flight_capabilities:0 "Flight Capabilities"
+CUTE_flight_capabilities_desc:0 ""
+CUTE_prodcution_tooltip_14:0 "§1The next tier of socks will use experimental fight tech that will allow the users to have some flight abilities.§!"
+
+CUTE_tier_VI_socks:0 "Tier VI Socks"
+CUTE_tier_VI_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+CUTE_plasma_field:0 "Plasma Field"
+CUTE_plasma_field_desc:0 ""
+CUTE_prodcution_tooltip_15:0 "§1The final tier of socks will include several turrets with the ability to create a plasma field around them.§!"
+
+CUTE_infinite_comfort:0 "Infinite Comfort"
+CUTE_infinite_comfort_desc:0 ""
+CUTE_prodcution_tooltip_16:0 "§1The final tier of socks will give its user infinite comfort beyond what was once thought possible.§!"
+
+CUTE_teleportation_chip:0 "Teleportation Chip"
+CUTE_teleportation_chip_desc:0 ""
+CUTE_prodcution_tooltip_17:0 "§1The final tier of socks will allow for short-range teleportation abilities.§!"
+
+CUTE_tier_VII_socks:0 "Tier VII Socks"
+CUTE_tier_VII_socks_desc:0 "It's time to use what we've learned and make a final tier of socks!"
+
+ CUTE_bavarian_militarism:0 "Cute Militarism"
+ CUTE_bavarian_militarism_desc:0 ""
+
+ CUTE_smarter_than_we_seem:0 "Smarter Than We Seem"
+
+ CUTE_tour_buses:0 "Tour Buses"
+ CUTE_tour_buses_desc:0 ""
+
+ CUTE_plan_for_perrfection:0 "Plan for Purrfection"
+ CUTE_plan_for_perrfection_desc:0 ""
+
+ CUTE_force_people_to_do_stuff:0 "Force People to do Stuff"
+ CUTE_force_people_to_do_stuff_desc:0 ""
+
+ CUTE_support:0 "Support Companies"
+ CUTE_support_desc:0 ""
+
+ CUTE_arty_research:0 "Glitter Cannons"
+ CUTE_arty_research_desc:0 ""
+
+ CUTE_a_lesson_in_theory:0 "A Lesson in Theory"
+ CUTE_a_lesson_in_theory_desc:0 ""
+
+ CUTE_supremacy_of_skirts:0 "Supremacy of Skirts"
+ CUTE_supremacy_of_skirts_desc:0 ""
+
+ CUTE_supremacy_of_sparkles:0 "Supremacy of Sparkles"
+ CUTE_supremacy_of_sparkles_desc:0 ""
+
+ smarter_than_we_seem:0 "Smarter than we Seem"
+ smarter_than_we_seem_desc:0 ""
+
+ CUTE_empower_the_assembly:0 "Empower the Assembly"
+ CUTE_empower_the_assembly_desc:0 ""
+
+ CUTE_hideris_victory:0 "Hideri's Victory"
+ CUTE_hideris_victory_desc:0 ""
+
+ CUTE_establish_trade_unions:0 "Establish Trade Unions"
+ CUTE_establish_trade_unions_desc:0 ""
+
+ CUTE_abolish_the_monarchy:0 "Abolish the Monarchy"
+ CUTE_abolish_the_monarchy_desc:0 ""
+
+ CUTE_erase_german_influence:0 "Erase German Influence"
+ CUTE_erase_german_influence_desc:0 ""
+
+ CUTE_declare_neutrality:0 "Declare Neutrality"
+ CUTE_declare_neutrality_desc:0 ""
+
+ CUTE_support_femboy_immigration:0 "Support Fem Immigration"
+ CUTE_support_femboy_immigration_desc:0 ""
+
+ CUTE_the_femboy_front:0 "The Feminine Front"
+ CUTE_the_femboy_front_desc:0 ""
+
+ CUTE_modify_the_bavarian_plan:0 "Modify the Bavarian Plan"
+ CUTE_modify_the_bavarian_plan_desc:0 ""
+
+ CUTE_break_the_chains:0 "Break the Chains"
+ CUTE_break_the_chains_desc:0 ""
+
+ CUTE_a_quick_purge:0 "A Quick Purge"
+ CUTE_a_quick_purge_desc:0 ""
+
+ CUTE_the_flying_femboys:0 "Flying!"
+ CUTE_the_flying_femboys_desc:0 ""
+
+ CUTE_rebuild_the_airfields:0 "Rebuild the Airfields"
+ CUTE_rebuild_the_airfields_desc:0 ""
+
+ CUTE_interception_insanity:0 "Interception Insanity"
+ CUTE_interception_insanity_desc:0 ""
+
+ CUTE_boom:0 "Boom"
+ CUTE_boom_desc:0 ""
+
+ CUTE_a_navy_with_no_ships:0 "A Navy With No Ships"
+ CUTE_a_navy_with_no_ships_desc:0 ""
+
+ CUTE_university_of_flying:0 "University of Flying"
+ CUTE_university_of_flying_desc:0 ""
+
+ CUTE_advanced_research:0 "Advanced Research"
+ CUTE_advanced_research_desc:0 ""
+
+ CUTE_steal_recreational_planes:0 "Steal Recreational Planes"
+ CUTE_steal_recreational_planes_desc:0 ""
+
+ CUTE_the_flying_femboy_concert:0 "The Flying Femboy Concert"
+ CUTE_the_flying_femboy_concert_desc:0 ""
+
+ CUTE_oceans_exists:0 "Oceans Exist"
+ CUTE_oceans_exists_desc:0 ""
+
+ CUTE_throw_someone_into_the_water:0 "Throw Someone Into The Water"
+ CUTE_throw_someone_into_the_water_desc:0 ""
+
+ CUTE_figure_out_what_ships_are_good:0 "Figure Out What Ships Are Good"
+ CUTE_figure_out_what_ships_are_good_desc:0 ""
+
+ CUTE_explosions:0 "Explosions"
+ CUTE_explosions_desc:0 ""
+
+ CUTE_rule_the_waves:0 "Rule the Waves"
+ CUTE_rule_the_waves_desc:0 ""
+
+ CUTE_protect_sock_trade_routes:0 "Protect the Sock Trade"
+ CUTE_protect_sock_trade_routes_desc:0 ""
+
+# Bavaria
+
+BVR_modern_fashion:0 "Modern Fashion"
+BVR_modern_fashion_desc:0 "1930s fashion for both men and women is UGLY. It's time to switch up our style and embrace something more modern."
+
+BVR_ramp_up_production:0 "Ramp up Production"
+BVR_ramp_up_production_desc:0 ""
+BVR_prodcution_tooltip_1:0 "§1Once the next tier is developed, enough socks will be produced to allow for use in the military and by regular citizens outside the factories.§!"
+
+BVR_expand_the_sowing_complex:0 "Expand the Sewing Complex"
+BVR_expand_the_sowing_complex_desc:0 ""
+
+BVR_ensure_excellent_quality:0 "Ensure Excellent Quality"
+BVR_ensure_excellent_quality_desc:0 ""
+BVR_prodcution_tooltip_2:0 "§1The next tier of socks will be much more comfrtable and make those who wear them happy and less likely to revolt.§!"
+
+BVR_tier_II_socks:0 "Tier II Socks"
+BVR_tier_II_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+BVR_experimental_fabric:0 "Experimental Fabric"
+BVR_experimental_fabric_desc:0 ""
+BVR_prodcution_tooltip_3:0 "§1The next tier of socks will use experimental fabric that will increase worker efficiently.§!"
+
+BVR_bullet_proof_bows:0 "Bullet Proof Bows"
+BVR_bullet_proof_bows_desc:0 ""
+BVR_prodcution_tooltip_4:0 "§1The next tier of socks will use use bullet proof bows to increase defense.§!"
+
+BVR_cheap_as_dirt:0 "Cheap as Dirt"
+BVR_cheap_as_dirt_desc:0 ""
+BVR_prodcution_tooltip_5:0 "§1The next tier of socks will be easy to produce and reduce strain on production efficiency.§!"
+
+BVR_tier_III_socks:0 "Tier III Socks"
+BVR_tier_III_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+BVR_performance_enhancing_fiber:0 "Performance Enhancing Fiber"
+BVR_performance_enhancing_fiber_desc:0 ""
+BVR_prodcution_tooltip_6:0 "§1The next tier of socks will increase movement speed and production efficiency.§!"
+
+BVR_increased_enemy_distraction:0 "Increased Enemy Distraction"
+BVR_increased_enemy_distraction_desc:0 ""
+BVR_prodcution_tooltip_7:0 "§1The next tier of socks will be designed to distract enemies. Tricking them into gazing at them for far too long.§!"
+
+BVR_built_in_autopilot:0 "Built in Autopilot"
+BVR_built_in_autopilot_desc:0 ""
+BVR_prodcution_tooltip_8:0 "§1The next tier of socks will have mechanized movement capabilities and allow for literal forced marches.§!"
+
+BVR_tier_IV_socks:0 "Tier IV Socks"
+BVR_tier_IV_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+BVR_immortality_charm:0 "Immortality Charm"
+BVR_immortality_charm_desc:0 ""
+BVR_prodcution_tooltip_9:0 "§1The next tier of socks will slow the aging process and help its user never age a day over thirty.§!"
+
+BVR_shapeshifting_enhancements:0 "Shapeshifting Enhancement"
+BVR_shapeshifting_enhancements_desc:0 ""
+BVR_prodcution_tooltip_10:0 "§1The next tier of socks will be able to morph and asist its wearing with whatever work they are trying to accomplish.§!"
+
+BVR_cognitive_enhancer:0 "Cognitive Enhancer"
+BVR_cognitive_enhancer_desc:0 ""
+BVR_prodcution_tooltip_11:0 "§1The next tier of socks will increase its user's cognitive abilities. Increasing both combat abilities and production skills.§!"
+
+BVR_tier_V_socks:0 "Tier V Socks"
+BVR_tier_V_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+BVR_built_in_rocket_launcher:0 "Built in Rocket Launcher"
+BVR_built_in_rocket_launcher_desc:0 ""
+BVR_prodcution_tooltip_12:0 "§1The next tier of socks will have built in rocket launchers for emergency use against enemies to Bavaria.§!"
+
+BVR_infinite_storage:0 "Infinite Storage"
+BVR_infinite_storage_desc:0 ""
+BVR_prodcution_tooltip_13:0 "§1The next tier of socks will be able to store an infinite amoung of belongings without ruining their appearance.§!"
+
+BVR_flight_capabilities:0 "Flight Capabilities"
+BVR_flight_capabilities_desc:0 ""
+BVR_prodcution_tooltip_14:0 "§1The next tier of socks will use experimental fight tech that will allow the users to have some flight abilities.§!"
+
+BVR_tier_VI_socks:0 "Tier VI Socks"
+BVR_tier_VI_socks_desc:0 "It's time to use what we've learned and make a new tier of socks!"
+
+BVR_plasma_field:0 "Plasma Field"
+BVR_plasma_field_desc:0 ""
+BVR_prodcution_tooltip_15:0 "§1The final tier of socks will include several turrets with the ability to create a plasma field around them.§!"
+
+BVR_infinite_comfort:0 "Infinite Comfort"
+BVR_infinite_comfort_desc:0 ""
+BVR_prodcution_tooltip_16:0 "§1The final tier of socks will give its user infinite comfort beyond what was once thought possible.§!"
+
+BVR_teleportation_chip:0 "Teleportation Chip"
+BVR_teleportation_chip_desc:0 ""
+BVR_prodcution_tooltip_17:0 "§1The final tier of socks will allow for short-range teleportation abilities.§!"
+
+BVR_tier_VII_socks:0 "Tier VII Socks"
+BVR_tier_VII_socks_desc:0 "It's time to use what we've learned and make a final tier of socks!"
+
+
+
+BVR_the_first_munich_concert:0 "The First Munich Concert"
+BVR_the_first_munich_concert_desc:0 "An Assembly has formed to guide this young nation. We must plan a large concert to follow up on Felix's original messages and begin planning for what this nation should become."
+
+BVR_the_second_munich_concert:0 "The Second Munich Concert"
+BVR_the_second_munich_concert_desc:0 "With the first concert finished, there is still a lot of work to do. We must address the people once again."
+
+BVR_the_third_munich_concert:0 "The Third Munich Concert"
+BVR_the_third_munich_concert_desc:0 "One final address to the people is required to solidify our itendity and form a government!"
+
+BVR_the_closed_doors_concerto:0 "The Closed Doors Concerto"
+BVR_the_closed_doors_concerto_desc:0 "Addressing the people is boring. Time for secret meetings where we plan for world domination!"
+
+BVR_the_path_to_freedom:0 "The Path to Freedom"
+BVR_the_path_to_freedom_desc:0 ""
+
+BVR_the_prime_femboy:0 "The Ideal Male"
+BVR_the_prime_femboy_desc:0 ""
+
+BVR_our_royal_birthright:0 "The Lord Regent"
+BVR_our_royal_birthright_desc:0 ""
+
+BVR_close_the_pink_gates:0 "Close the Pink Gates"
+BVR_close_the_pink_gates_desc:0 ""
+
+BVR_enforced_cuteness_standards:0 "Enforced Cuteness Standards"
+BVR_enforced_cuteness_standards_desc:0 ""
+
+BVR_state_controlled_skirt_production:0 "Controlled Skirt Production"
+BVR_state_controlled_skirt_production_desc:0 ""
+
+BVR_fortify_the_north:0 "Fortify the North"
+BVR_fortify_the_north_desc:0 ""
+
+BVR_dissolve_the_assembly:0 "Dissolve the Assembly"
+BVR_dissolve_the_assembly_desc:0 ""
+
+BVR_son_of_the_king:0 "Son of the King"
+BVR_son_of_the_king_desc:0 ""
+BVR_son_of_the_king_desc_tooltip:0 "Felix must prepare himself to become a §YTrue Leader§! and §YDiplomatically§! lead Bavaria to victory!"
+
+BVR_a_lesson_in_etiquette:0 "A Lesson in Etiquette"
+BVR_a_lesson_in_etiquette_desc:0 ""
+
+BVR_a_lesson_in_cleanliness:0 "A Lesson in Cleanliness"
+BVR_a_lesson_in_cleanliness_desc:0 ""
+
+BVR_a_lesson_in_courtship:0 "A Lesson in Courtship"
+BVR_a_lesson_in_courtship_desc:0 ""
+
+BVR_the_grand_ball:0 "The Grand Ball"
+BVR_the_grand_ball_desc:0 ""
+
+BVR_a_little_practice:0 "A Little Practice"
+BVR_a_little_practice_desc:0 ""
+BVR_a_little_practice_tooltip:0 "§1This trait may prove useful beyond simply improving relations.§!"
+
+BVR_dealing_with_father:0 "Dealing with Father"
+BVR_dealing_with_father_desc:0 ""
+
+BVR_one_state_to_rule_them_all:0 "One State to Rule Them All!"
+BVR_one_state_to_rule_them_all_desc:0 ""
+BVR_one_state_to_rule_them_all_tooltip:0 "The §YPolitics§! and §YIndustry§! of the state must be altered to ensure victory over our countless foes!"
+
+BVR_cuteness_in_the_classroom:0 "Cuteness in the Classroom"
+BVR_cuteness_in_the_classroom_desc:0 ""
+
+BVR_the_pink_decree:0 "The Pink Decree"
+BVR_the_pink_decree_desc:0 ""
+
+BVR_secure_the_resources:0 "Secure the Resources"
+BVR_secure_the_resources_desc:0 ""
+
+BVR_a_better_autarky:0 "A Better Autarky"
+BVR_a_better_autarky_desc:0 ""
+
+BVR_the_bavarian_plan:0 "The Bavarian Plan"
+BVR_the_bavarian_plan_desc:0 ""
+
+BVR_of_men_and_women:0 "Of Men and Women"
+BVR_of_men_and_women_desc:0 ""
+
+BVR_the_best_diplomacy:0 "Neodiplomacy"
+BVR_the_best_diplomacy_desc:0 ""
+BVR_the_best_diplomacy_tooltip:0 "Unlocks a £GFX_decision_icon_small §YDecision§! to open a dating interface."
+
+BVR_raise_the_militia:0 "Raise the Militia"
+BVR_raise_the_militia_desc:0 ""
+
+BVR_the_pink_empire:0 "The Pink Empire"
+BVR_the_pink_empire_desc:0 ""
+
+ BVR_the_path_to_freedom:0 "Our Path To Freedom"
+ BVR_the_path_to_freedom_desc:0 ""
+ 
+ BVR_first_bavarian_elections:0 "First Bavarian Elections"
+ BVR_first_bavarian_elections_desc:0 ""
+
+ BVR_the_flame:0 "Protecting the Flame"
+ BVR_the_flame_desc:0 ""
+
+ BVR_rewrite_the_constitution:0 "Rewrite The Constitution"
+ BVR_rewrite_the_constitution_desc:0 ""
+
+ BVR_unite_europe_with_love:0 "Unite Europe with Love"
+ BVR_unite_europe_with_love_desc:0 ""
+
+ BVR_unite_europe_with_strength:0 "Unite Europe with Strength"
+ BVR_unite_europe_with_strength_desc:0 ""
+
+ BVR_our_future:0 "Our Future"
+ BVR_our_future_desc:0 ""
+
+ BVR_the_central_economy:0 "The Central Economy"
+ BVR_the_central_economy_desc:0 ""
+
+ BVR_dreams_of_a_united_republic:0 "Dreams of a United Republic"
+ BVR_dreams_of_a_united_republic_desc:0 ""
+
+ BVR_plan_the_unification:0 "Plan The Unification"
+ BVR_plan_the_unification_desc:0 ""
+
+ BVR_rig_the_elections:0 "Trial By Fire"
+ BVR_rig_the_elections_desc:0 ""
+
+ BVR_a_fair_election:0 "A Fair Election"
+ BVR_a_fair_election_desc:0 ""
+
+ BVR_united_once_more:0 "United Once More"
+ BVR_united_once_more_desc:0 ""
+
+ BVR_further_expansion_plans:0 "Furter Plans of Expansion"
+ BVR_further_expansion_plans_desc:0 ""
+
+ BVR_austrian_question:0 "The Czech Question"
+ BVR_austrian_question_desc:0 ""
+
+ BVR_austrian_elections:0 "Czechoslovakia Unification Elections"
+ BVR_austrian_elections_desc:0 ""
+
+ BVR_permission_to_use_force:0 "Invade Czechoslovakia"
+ BVR_permission_to_use_force_desc:0 ""
+
+ BVR_democracy_for_europe:0 "Democracy For Europe"
+ BVR_democracy_for_europe_desc:0 ""
+
+ BVR_union_of_cuteness:0 "Union of Cuteness"
+ BVR_union_of_cuteness_desc:0 ""
+
+ BVR_eastern_expansion:0 "Eastern Expansion"
+ BVR_eastern_expansion_desc:0 ""
+
+ BVR_western_expansion:0 "Western Expansion"
+ BVR_western_expansion_desc:0 ""
+
+ BVR_polish_guarantees:0 "Guarantees for Danzig"
+ BVR_polish_guarantees_desc:0 ""
+
+ BVR_baltic_membership:0 "Baltic Membership"
+ BVR_batic_membership_desc:0 ""
+
+ BVR_czechoslovakian_question:0 "Czechoslovakian Question"
+ BVR_czechoslovakian_question_desc:0 ""
+
+ BVR_lowlands_membership:0 "Lowlands Membership"
+ BVR_lowlands_membership_DEF:0 ""
+
+ BVR_tyrol_offer:0 "Tyrol for Alliance?"
+ BVR_tyrol_offer_desc:0 ""
+
+ BVR_bavaria_our_beloved:0 "Bavaria Our Beloved"
+ BVR_bavaria_our_beloved_desc:0 ""
+
+ BVR_arsenal_of_cuteness:0 "Arsenal of Cuteness"
+ BVR_arsenal_of_cuteness_desc:0 ""
+
+ BVR_a_unified_nation:0 "A Unified Nation"
+ BVR_a_unified_nation_desc:0 ""
+
+ BVR_tyrol_uprising:0 "Tyrol Uprising"
+
+ BVR_strike_at_germany:0 "Strike at Germany"
+ BVR_strike_at_germany_desc:0 ""
+ BVR_strike_at_germany_tooltip:0 "Six §G14-Width Infantry§! will rise up in Munich!"
+
+ BVR_a_nation_at_war:0 "A Nation at War"
+ BVR_a_nation_at_war_desc:0 ""
+
+ BVR_a_trial_of_cuteness:0 "A Trial of Cuteness"
+ BVR_a_trial_of_cuteness_desc:0 ""
+
+ BVR_expand_the_crowns_power:0 "Expand the Crown's Power"
+ BVR_expand_the_crowns_power_desc:0 ""
+
+ BVR_renovate_neuschwanstein:0 "Femboyschwanstein"
+ BVR_renovate_neuschwanstein_desc:0 ""
+
+ BVR_call_the_round_table:0 "Call the Round Table"
+ BVR_call_the_round_table_desc:0 ""
+
+ BVR_the_lord_selection_protcols:0 "The Lord Selection Protocols"
+ BVR_the_lord_selection_protcols_desc:0 ""
+ BVR_the_lord_selection_protcols_tooltip:0 "The Lord Selection Process will be imporved."
+
+ BVR_kightly_training:0 "Kightly Training"
+ BVR_kightly_training_desc:0 ""
+ BVR_kightly_training_tooltip:0 "Royal Guard divisions will be better trained."
+
+ BVR_raise_the_royal_guard:0 "Raise the Royal Guard"
+ BVR_raise_the_royal_guard_desc:0 ""
+ BVR_raise_the_royal_guard_tooltip:0 "Three §GRoyal Guards§! will be recruited in Munich!"
+
+ BVR_modern_chivalry:0 "Modern Chivalry"
+ BVR_modern_chivalry_desc:0 ""
+
+ BVR_the_merchants_council:0 "The Merchant's Council"
+ BVR_the_merchants_council_desc:0 ""
+
+ BVR_fair_market_standards:0 "High Market Standards"
+ BVR_fair_market_standards_desc:0 ""
+ BVR_fair_market_standards_tooltip:0 "Implementing the Merchant's Council will increase stability and research speed."
+
+ BVR_establish_trading_unions:0 "Establish Trading Unions"
+ BVR_establish_trading_unions_desc:0 ""
+ BVR_establish_trading_unions_tooltip:0 "Implementing the Merchant's Council will sacrifice consumer goods benefits for increased production efficiency."
+
+ BVR_rebuild_old_castle:0 "Rebuild Old Castles"
+ BVR_rebuild_old_castle_desc:0 ""
+ BVR_rebuild_old_castle_tooltip:0 "Prepares us to declare the Kingdom of Bavaria!"
+
+ BVR_the_castle_inspection_commission:0 "The Castle Inspection Commission"
+ BVR_the_castle_inspection_commission_desc:0 ""
+ BVR_the_castle_inspection_commission_tooltip:0 "Reduces the strain of rebuilding castles."
+
+ BVR_stronger_than_steel:0 "Stronger than Steel"
+ BVR_stronger_than_steel_desc:0 ""
+
+ BVR_the_kingdom_of_femboyvaria:0 "The Kingdom of Bavaria"
+ BVR_the_kingdom_of_femboyvaria_desc:0 ""
+
+ BVR_ensure_a_smooth_transition:0 "Ensure a Smooth Transition"
+ BVR_ensure_a_smooth_transition_desc:0 ""
+ BVR_ensure_a_smooth_transition_tooltip:0 "Reduces the stability loss from proclaiming the kingdom."
+ 
+ BVR_prepare_for_the_grand_opening:0 "Prepare for the Grand Opening"
+ BVR_prepare_for_the_grand_opening_desc:0 ""
+ BVR_prepare_for_the_grand_opening_tooltip:0 "Reduces the political power loss from proclaiming the kingdom."
+
+ BVR_claims_on_england:0 "Claims on England"
+ BVR_claims_on_england_desc:0 ""
+
+ BVR_usurp_russian_power:0 "Pink Czechoslovakia"
+ BVR_usurp_russian_power_desc:0 ""
+
+ BVR_establish_scandinavian_pretenders:0 "Establish Scandinavian Pretenders"
+ BVR_establish_scandinavian_pretenders_desc:0 ""
+
+ BVR_press_colonial_claims:0 "Press Colonial Claims"
+ BVR_press_colonial_claims_desc:0 ""
+
+ BVR_bavarian_militarism:0 "Bavarian Militarism"
+ BVR_bavarian_militarism_desc:0 ""
+
+ BVR_tour_buses:0 "Tour Buses"
+ BVR_tour_buses_desc:0 ""
+
+ BVR_plan_for_perrfection:0 "Plan for Purrfection"
+ BVR_plan_for_perrfection_desc:0 ""
+
+ BVR_force_people_to_do_stuff:0 "Force People to do Stuff"
+ BVR_force_people_to_do_stuff_desc:0 ""
+
+ BVR_support:0 "Support Companies"
+ BVR_support_desc:0 ""
+
+ BVR_arty_research:0 "Glitter Cannons"
+ BVR_arty_research_desc:0 ""
+
+ BVR_a_lesson_in_theory:0 "A Lesson in Theory"
+ BVR_a_lesson_in_theory_desc:0 ""
+
+ BVR_supremacy_of_skirts:0 "Supremacy of Skirts"
+ BVR_supremacy_of_skirts_desc:0 ""
+
+ BVR_supremacy_of_sparkles:0 "Supremacy of Sparkles"
+ BVR_supremacy_of_sparkles_desc:0 ""
+
+ smarter_than_we_seem:0 "Smarter than we Seem"
+ smarter_than_we_seem_desc:0 ""
+
+ BVR_empower_the_assembly:0 "Empower the Corporations"
+ BVR_empower_the_assembly_desc:0 ""
+
+ BVR_spread_revolution:0 "Spreading a Revolution"
+ BVR_spread_revolution_desc:0 ""
+
+ BVR_establish_trade_unions:0 "Establish Trade Unions"
+ BVR_establish_trade_unions_desc:0 ""
+
+ BVR_abolish_the_monarchy:0 "Abolish the Monarchy"
+ BVR_abolish_the_monarchy_desc:0 ""
+
+ BVR_warrior_preparation_program:0 "Warrior Preparation Program"
+ BVR_warrior_preparation_program_desc:0 ""
+
+ BVR_the_peace_program:0 "The Peace Program"
+ BVR_the_peace_program_desc:0 ""
+
+ BVR_support_immigration:0 "Support Immigration"
+ BVR_support_immigration_desc:0 ""
+
+ BVR_the_femboy_front:0 "The Feminine Front"
+ BVR_the_femboy_front_desc:0 ""
+
+ BVR_modify_the_bavarian_plan:0 "Modify the Bavarian Plan"
+ BVR_modify_the_bavarian_plan_desc:0 ""
+
+ BVR_break_the_chains:0 "Break the Chains"
+ BVR_break_the_chains_desc:0 ""
+
+ BVR_prepare_for_conflict:0 "Repeal the Articles of Peace"
+ BVR_prepare_for_conflict_desc:0 ""
+
+ BVR_the_flying_femboys:0 "Flying!"
+ BVR_the_flying_femboys_desc:0 ""
+
+ BVR_rebuild_the_airfields:0 "Rebuild the Airfields"
+ BVR_rebuild_the_airfields_desc:0 ""
+
+ BVR_interception_insanity:0 "Interception Insanity"
+ BVR_interception_insanity_desc:0 ""
+
+ BVR_boom:0 "Boom"
+ BVR_boom_desc:0 ""
+
+ BVR_a_navy_with_no_ships:0 "A Navy With No Ships"
+ BVR_a_navy_with_no_ships_desc:0 ""
+
+ BVR_university_of_flying:0 "University of Flying"
+ BVR_university_of_flying_desc:0 ""
+
+ BVR_advanced_research:0 "Advanced Research"
+ BVR_advanced_research_desc:0 ""
+
+ BVR_steal_recreational_planes:0 "Steal Recreational Planes"
+ BVR_steal_recreational_planes_desc:0 ""
+
+ BVR_the_flying_femboy_concert:0 "The Flying Femboy Concert"
+ BVR_the_flying_femboy_concert_desc:0 ""
+
+ BVR_oceans_exists:0 "Oceans Exist"
+ BVR_oceans_exists_desc:0 ""
+
+ BVR_throw_someone_into_the_water:0 "Throw Someone Into The Water"
+ BVR_throw_someone_into_the_water_desc:0 ""
+
+ BVR_figure_out_what_ships_are_good:0 "Figure Out What Ships Are Good"
+ BVR_figure_out_what_ships_are_good_desc:0 ""
+
+ BVR_explosions:0 "Explosions"
+ BVR_explosions_desc:0 ""
+
+ BVR_rule_the_waves:0 "Rule the Waves"
+ BVR_rule_the_waves_desc:0 ""
+
+ BVR_protect_sock_trade_routes:0 "Protect the Sock Trade"
+ BVR_protect_sock_trade_routes_desc:0 ""

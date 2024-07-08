@@ -1,0 +1,20 @@
+﻿l_english:
+ gift_accepted:0 "Your gift was accepted with open arms!"
+ action_deny:0 "It doesn't appear that he enjoyed that..."
+ action_accept:0 "Perfection! As far as you can tell he quite enjoyed that."
+ action_neutral:0 "That didn't seem to have any effect."
+ date_fail:0 "He politely declined your offer."
+
+ good_title_1:0 "Success!"
+ good_title_2:0 "  UwU!  "
+ good_title_3:0 "Perfect!"
+ good_title_4:0 "  Nice! "
+ good_title_5:0 "  Hot!  "
+
+ bad_title_1:0 " Oh no! "
+ bad_title_2:0 "  Oof   "
+ bad_title_3:0 "  ...   "
+ bad_title_4:0 "  Hmm   "
+ bad_title_5:0 "  Oops  "
+
+ neutral_title_1:0 "Unfortunate"

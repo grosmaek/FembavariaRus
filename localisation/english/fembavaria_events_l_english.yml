@@ -1,0 +1,412 @@
+﻿l_english:
+  fbavaria.1.t:0 "Bavaria Declares Independence"
+  fbavaria.1.d:0 "What at first seemed to be a Bavarian separatist group declared their independence earlier today, taking advantage of the German civil war. Everything seemed normal until their apparent leader, heir to the Bavarian throne, Felix von Wittelsbach gave a speech and reffered to the nation a couple times as \"[BVR.GetName].\" He also gave the speech in the form of a musical number and spoke in an oddly colloquial fashion.\n\nNo one is sure what exactly to think, but odds are, once the civil war is over, it shouldn't be difficult to rein them back into the fold."
+  fbavaria.1.a:0 "Play as Bavaria!"
+  fbavaria.1.b:0 "This won't last long..."
+
+  fbavaria.2.t:0 "The First Concert"
+  fbavaria.2.d:0 "Astopprecht took center stage today as the Bavarian government began their first concert. Instead of silly press conferences the assembly of [BVR.GetName] has decided to address the public via cute concerns where all the members of government would wear pink outfits and dance. The general public and foreign leaders seem to primarily be confused, but it has been successful in garnering a lot of attention. \n\nMost importantly, in a daring move, all members of the assembly were wearing:"
+  fbavaria.2.a:0 "Regular pants!"
+  fbavaria.2.b:0 "Skirts!"
+  fbavaria.2.c:0 "Lederhosen!"
+
+  fbavaria.3.t:0 "Felix von Wittelsbach"
+  fbavaria.3.d:0 "Felix, despite being heir to the throne, didn't seem like he wanted to reinstate the monarchy at all. As he did his musical number, he sung about the importantce of raising militias and properly defending Bavaria."
+  fbavaria.3.a:0 "Strengthen the Militia!"
+  fbavaria.3.b:0 "Let's focus on other things..."
+
+  fbavaria.4.t:0 "The Second Concert"
+  fbavaria.4.d:0 "The second concert was a lot like the first, but now people knew what to expect. Several new foreign journalist had arrived and some even helped with the performances. \n\nAs a parting gift, everyone at the concern was given a cute little hair bow. And the best part about them was they were all:"
+  fbavaria.4.a:0 "Pink!"
+  fbavaria.4.b:0 "Blue!"
+  fbavaria.4.c:0 "Red!"
+
+  fbavaria.5.t:0 "The Business Special"
+  fbavaria.5.d:0 "But suddenly! Before everyone could leave, Felix announced a suprise performance by the stock holders and businessmen of Bavaria. They sung about how cool capitalism was and loads of cash into the crowd."
+  fbavaria.5.a:0 "Ewww Capitalism"
+  fbavaria.5.b:0 "Cute!"
+
+  fbavaria.6.t:0 "The Third Concert"
+  fbavaria.6.d:0 "The Third Concert was brief compared to the first and second concert. Nagisa, leader of the democratic faction in the assembly took center stage to try to explain to the crowd why elections were the best way to move forward.\n\nHis music number was nothing fantastic, but it seems to have got the point across."
+  fbavaria.6.a:0 "Good, I guess?"
+
+  fbavaria.7.t:0 "A Show of Wholesome Patriotism"
+  fbavaria.7.d:0 "Lederhosen, a traditional outfit of Bavaria, was worn by all assembly members on the main stage. Astopprecht’s choice of dress code was to display the national heritage and pride of the new [BVR.GetName], but most importantly to strengthen the feel of unity and revitalize the national pride of all proud bois in the new state! This brave move put the foreign leaders in awe, and the general public praised this wholesome show of patriotism."
+  fbavaria.7.a:0 "Cheers to the nation! Cheers to [BVR.GetName]!!!"
+
+  fbavaria.8.t:0 "Skirts!!!"
+  fbavaria.8.d:0 "To accompany the general cuteness, all members of the assembly were wearing cute pink skirts and thigh highs following [BVR.GetName]’s coat of arms pattern.  Apart from the general cuteness factor of this magnificent piece of cloth, foreign leaders seemed very… appeased with what they saw. So appeased in fact that some foreign leaders even tried to communicate with assembly members while they were on stage.  No matter the embarrassing moments this caused, the public was happy to see the use of what will eventually be the glue that binds all bois together."
+  fbavaria.8.a:0 "Very cute!"
+
+  fbavaria.9.t:0 "The Closed Doors Concerto"
+  fbavaria.9.d:0 "Following the first two concerns, Felix and his close allies Zelda and Squidward held a private meeting to discuss the true future of [BVR.GetName].\n\nMeasures would have to be put in place to delegitimize the assembly and ensure that Bavaria becomes a major player on the world stage. No one inside or out of [BVR.GetName] could be allowed to stop them."
+  fbavaria.9.a:0 "Bavaria shall rise!"
+
+  fbavaria.10.t:0 "Closing the Pink Gate"
+  fbavaria.10.d:0 "Following Felix's victory in the assembly, the overwhelming consensus has been to adobt an isolationist philosophy. The rest of Germany will be left alone, and we in turn expect to be left alone. We will create our own world here in [BVR.GetName]. And it'll be great!"
+  fbavaria.10.a:0 "Hot!"
+
+  fbavaria.11.t:0 "It Begins"
+  fbavaria.11.d:0 "The sounds of cogs echo in the seemingly endless factory complex. Workers shedding blood sweat and tears in the vast chambers, all to keep the fuel machine running. The sheer tons of materials required for production are immense, the ecological disaster grand, but it will all be worth it soon, because one day….all citizens of [BVR.GetName]... Will look soooo cute! Crates of thigh highs shall be shipped off daily!\n\nFor now only factory workers will recieve shipments, but once they are able to use the natuarlly-infused cuteness to boost their working ability, more shall access this adorable power!"
+  fbavaria.11.a:0 "A small price to pay for cute men"
+
+  fbavaria.12.t:0 "Wilhelm Asks for Recognition"
+  fbavaria.12.d:0 "\"So what you mean is that you are emperor-kunie?\" exclaimed the diplomatic Bavarian envoy visiting Wilhelm's residence in the Netherlands.\n\n\"Sir, are you sure we are not in some sort of a freakshow?\" whispered one of the guards to Wilhelm. \"Well mwister Wilhelmie, I think you are cuteeee…., we will make sure to recognize your countrwy to the scary suited men in the league of Nwations. But... you will have to do me a favour...\""
+  fbavaria.12.a:0 "Come to Bavaria and make Astopprecht your regent!"
+  fbavaria_12_a_tooltip:0 "This will §RCompletely Destroy§! relations with the Empire."
+  fbavaria.12.b:0 "Make Felix your heir!"
+  fbavaria_12_b_tooltip:0 "This will §GImprove§! relations with the Empire, but could lead to a §RSuccession Crisis§!"
+  fbavaria.12.c:0 "Hand over a gazillion dollars!"
+  fbavaria_12_c_tooltip:0 "This will §GImprove§! relations with the Empire, and promote §GMutual Cooperation§!."
+  fbavaria.12.e:0 "Give me a kiss!"
+  fbavaria_12_e_tooltip:0 "This will §RWorsen§! relations with the Empire\n£uwu  Cuteness Factor: §G+10%§!"
+
+  fbavaria.13.t:0 "Catboy Appreciation Day"
+  fbavaria.13.d:0 "Today the people of [BVR.GetName] flood the streets cheerfully to celebrate the yearly celebration of Catboy appreciation day. All government institutes, schools and even factories have shut down for this wonderful celebration. Kiosks from all over [BVR.GetName] are selling cat ears and cat-paw thigh highs in shockingly low prices, in the spirit of national unity and cuteness! A wonderful speech was given by local authorities, stating that catboys have been part of German-speaking culture for years, referring to the famous catboy of Austria, Mozart."
+  fbavaria.13.a:0 "Very cute"
+
+  fbavaria.14.t:0 "Catboy Outfits Selling Like Wildfire"
+  fbavaria.14.d:0 "Catboy appreciation day went fantastically, with coverage from all major media globally. While the spirit of introducing the world to catboyos was the main goal of the day, it appears the great prices on catboy costumes have led to a nationwide shortage. Thousands of buyers are still looking to get on the trend while some are scalping costumes in mass. This spike in demand has led economists to estimate an increase of as much as 600% on cat ears in the near future for an approximate 9 month period until production gets back on track."
+  fbavaria.14.a:0 "A sad day for us good boys"
+
+  fbavaria.15.t:0 "Valentine‘s Day"
+  fbavaria.15.d:0 "Flower shops have been constantly empty for a week. Stores have been running out of wrapping paper. The empty shelves in chocolate stores make you think the Great Depression was still raging. Nothing unusual in the days leading up to the greatest yearly event in [BVR.GetName]: Valentine‘s Day.\n\nYou step out of the door, with a shining smile on your face. The midday sun is even more beautiful than usual. The birds are singing the loveliest song you have heard in a long time. Today is your special day. You‘re finally going out with your greatest crush.\n\nYou arrive at the park, just on time to prepare the picnic. You brought both your and thier favorite foods, and a very expensive bottle of wine. Just as you‘re finished, you can already see them walking towards the blanket you‘ve prepared. You give them the box of chocolates you prepared for them, and they try to hide thier blushing face. Seeing them so happy would make the coldest heart melt.\n\nAfter you‘ve finished eating and packing your things together, you go on your way to the theater. Even though it feels like you‘ve seen the movie a hundred times by now, you enjoyed every minute, because you could be with them. Together, you could‘ve watched 10 hours of a black screen and still have enjoyed it.\n\nThe day couldn‘t have been any better. And just like you, hundreds of thousands of other Bavarian citizens have had an amazing day with thier special one."
+  fbavaria.15.a:0 "You can‘t wait for next year."
+
+  fbavaria.16.t:0 "The Kiss"
+  fbavaria.16.d:0 "\"A kiss?\" Wilhelm shouted. \"Why? What?\" He started pacing around the room as the diplomatic envoy sat in silence with a smug look on his face. \"Have your superiors approved of this?\"\n\n\"No... I thought it would be cute. That's all.\"\n\nWilhelm almost instinctively started banging his head into to the wall.\"Are you all this god damn horny? Like seriously. What's going on down there? Five seconds ago you're part of completely normal civil war germany, and now this?\"\n\n\"Welllll, uh no. I'm just the type of person who affirms the pwopular stereotype. Hehehe.\" Wilhelm dismissed the envoy with no kiss taking place. Truly a sad day."
+  fbavaria.16.a:0 "I cry"
+
+  fbavaria.17.t:0 "The Industrial Aid Agreement"
+  fbavaria.17.d:0 "Wilhelm has agreed that on his ascension to the throne of the New German Empire, he will industrially support Bavaria so long as they recognize him as the true emperor."
+  fbavaria.17.a:0 "Cute!"
+
+  fbavaria.18.t:0 "The Grand Ball"
+  fbavaria.18.d:0 "Many today gathered in Munich for Crown Price Felix von Wittelsbach's grand ball. Unlike the concerts, this celebration required all attendies to dance. Felix made an extra effort to talk to the press and start flirting with foreign leaders. Things seem to be going well for this 21 year-old bachelor."
+  fbavaria.18.a:0 "Nice"
+
+  fbavaria.19.t:0 "A Little Practice"
+  fbavaria.19.d:0 "Astopprecht, Lord Regent for Felix's father, offered to help out the young bachelor in his quest to secure the royal marriage of a lifetime. The regent made sure to teach Felix all his best tricks to ensure the 21 year-old prince undoubtably become an amazing king. In addition to this he also made sure Felix got the proper training in how to flirt with and get the attention of foreign leaders from Russia to America."
+  fbavaria.19.a:0 "What?"
+
+  fbavaria.20.t:0 "The Fate of King Rupprecht"
+  fbavaria.20.d:0 "There's one lil secret that Felix has been keeping for some time now...\n\nFelix had been keeping his father \"prisoner\" by distracting him with an extremely comfortable lifestyle in the mountains.\n\nHowever, now that his father has learned of his sinister intentions, it's due time to decide what should happen to the monarchy."
+  fbavaria.20.a:0 "It's time to make ammends."
+  fbavaria.20.c:0 "He must abdicate!"
+  fbavaria.20.b:0 "Abolish the monarchy."
+
+  fbavaria.21.t:0 "A Missing King"
+  fbavaria.21.d:0 "King Rupprecht Von Wittelsbach addressed a crowd at a preess conference the other day following his son's concert and since has dissapeared. No one is exactly sure what is going on, but his sudden dissapearance has done nothing but harm the stability of this newly independent nation."
+  fbavaria.21.a:0 "Weird..."
+
+  fbavaria.22.t:0 "Cuteness in the Classroom"
+  fbavaria.22.d:0 "Today the Bavarian government announced a total revamp of the education system, revising many laws regarding education. Perhaps the biggest and most shocking change of them all is the introduction of kindness classes in the school curriculum. \"The scientific community sees this as a fantastic investment for the future generations, all the taxpayer money will definitely pay out, once we see the first results of our cute work,\" exclaims Dr. Cattech, a foreign scientist with a PHD in student psychology. \"The core principles of kindness, respect and more shall be taught on a regular basic in all grades of the new school system.\""
+  fbavaria.22.a:0 "Knowledge is a weapon more lethal than any gun!"
+
+  fbavaria.23.t:0 "The Gender Question"
+  fbavaria.23.d:0 "The rise and acceptance of feminine men in [BVR.GetName] has had many strange consequences. One of these has been the unitentional rise of gender equality.\n\nFor the time being, [BVR.GetName] will be a state where everyone contributes. Especially when that contribution goes to the war effort."
+  fbavaria.23.a:0 "Yay?"
+
+  fbavaria.24.t:0 "Where is the cuteness?"
+  fbavaria.24.d:0 "The streets of [BVR.GetName] seem grim... Everyone is walking along in gloomy clothing and all the stores seem to have rejected their previous pink and white patterns. It seems that the entire nation of [BVR.GetName] is at a crisis seeming so unimaginable yet so near... most Bavarian men seem to be rejecting their new feminine ways of life. If this continues to be, it could have immeasurable consequences to the state and crumble the founding principles of this glorious nation."
+  fbavaria.24.a:0 "Minimum cuteness achieved!"
+
+  fbavaria.25.t:0 "Can it get any cuter?!"
+  fbavaria.25.d:0 "Today, in a rather ordinary day without any holiday whatsoever, everyone seemed wholesome… Rows of cute men and women flood the streets in hot pink skirts. Honestly, everyone seems so cuddle worthy nowadays that the urge to nuzzle within the populace seems hard to contain."
+  fbavaria.25.a:0 "So cute, much lovely!"
+
+  fbavaria.26.t:0 "The Cute Militias"
+  fbavaria.26.d:0 "The Femboy Bible may preach Peace, but when it its Cuteness itself that is threatened, then it is every boi’s duty to defend all that is wholesome. His Cuteness the Fempope has called a Crusade to reclaim the Cutie Lands from the infidels, who would deny kittens their right to visit the wholesome places. It is time for the armies to put aside their differences and unite under one banner, the sign of thigh highs, and give back God’s children what is rightfully theirs, or die trying."
+  fbavaria.26.a:0 "Hu...hu..Hurray..."
+  fbavaria26_tooltip:0 "Nine §GInfantry Divisions§! will rise up in Munich!"
+
+  fbavaria.27.t:0 "The Most Wonderful Time of the Year"
+  fbavaria.27.d:0 "The country is covered in fluffy snow, and everyone is wearing their comfy warm socks!” asserted a news anchor on the radio, today is the beginning for winter holidays. Everyone is excited for the celebrations that are to follow, with colorful lights and open fireplaces in every home. The spirit of Christmas joy and new year’s eve has taken the country by storm, with philanthropy being the core of this year’s happy winter days."
+  fbavaria.27.a:0 "Merry Xmas and happy holidays!"
+
+  fbavaria.28.t:0 "Württemberg rises!"
+  fbavaria.28.d:0 "News have come out of Württemberg, the southernmost province of Germany, ever since the secession of [BVR.GetName]. Various cute groups from said state have loudly voiced thier support for our cause, criticising the central government in Berlin for not being feminine enough. Experts see a potential secession of Württemberg and a possible union with [BVR.GetName] as likely. The region has culturally always been closer to Munich than Berlin anyway."
+  fbavaria.28.a:0 "Voice our support to the movement!"
+  fbavaria.28.b:0 "Denounce the movement! We don‘t want conflict with Germany!"
+
+  fbavaria.29.t:0 "The Fem Party of Tyrol"
+  fbavaria.29.d:0 "To the south of Bavaria lies a beautiful land of mountains and valleys: Tyrol. The region had always been a favored tourist destination of Germans, and especially Bavarians. Even though they are seperated by land borders, whatever happened in Bavaria always had an impact on Tyrol.\n\nIn the wake of the independence of [BVR.GetName] from Germany, the femboy ideals of its northern neighbor had influenced Tyrolian politics. This all cumulated in the founding of the FPT, the Fem Party of Tyrol. Fed up with the dictatorship located in Vienna, Tyrolians wish for a fresh wind in politics, just like what has happened in our country. What exactly thier goals are is still unclear however. Some suspect they might want a union with [BVR.GetName], others think they might just seek independece, or just a gradual shift in Austrian politics. Whatever thier goals end up being, we should look into this party as a potential political ally in the future."
+  fbavaria.29.a:0 "A positive development."
+
+  fbavaria.30.t:0 "Tyrolian-Bavarian Alliance"
+  fbavaria.30.d:0 "The recently founded Fem Party of Tyrol has found itself in a very problematic position. As the biggest opposition to the current status quo, the Tyrolian Femboys have painted a massive target on thier back. It is only a matter of time until the Austrian government will engage in anti-cute measures. Some political experts even expect a ban of the party. Any interactions with the Tyrolian Femboys have to be quick.\n\nIt was a foggy morning at the border between Bavaria and Tyrol. Diplomats from out government have decided to meet up with the leading figures of the FPT to discuss thier dire political situation. \"We are fully aware of the dangers called out support for us poses to your government on the global stage.\", the leader of the party argued. But our Minister of Foreign Affairs assured the Tyrolians that Bavaria would be willing to protect thier ideological brothers to the south, even militarily if needed."
+  fbavaria.30.a:0 "Let's just hope it doesn't come to that."
+
+  fbavaria.31.t:0 "The Boiling Point"
+  fbavaria.31.d:0 "Relations between the Fem Party of Tyrol and the Austrian central government have been heating up more and more as the FTP has grown in popularity. The success of the FTP has inspired smaller cute movements all over Austria, altho most of them have been stamped out by Vienna.\n\nAustrian rhetoric has increasingly become anti-cute, and leaked government documents show an outlined plan of the Austrian military to forcefully dissolve the party, even at the cost of a Civil War. The FPT, outraged about this has issued a peaceful protest in Innsbruck, which has been violently supressed by the local police force. The leader of the FPT was forced to flee into exile in Munich.\n\nTensions to our south are close to escalating into outright war as more and more stories of street violence reach our newspapers. \n\nThis morning, the leader of the FPT has contacted the head of our government. \"We remember the military backing you have offered us.“, he said. „And now is the time for us to cash in on that favor. We require your backing to...\""
+  fbavaria.31.a:0 "Overthrow the government in Vienna!"
+  fbavaria.31.b:0 "Peacefully support their independece!"
+  fbavaria.31.c:0 "Invade Austria to end this opression!"
+
+  fbavaria.32.t:0 "A Dye-er Situation"
+  fbavaria.32.d:0 "Large flocks of concerned femboys have been seen running wild across all stores around the country, with multiple instances of violence in clothing aisles. Concerned government officials in co operation with factory owners have come to the conclusion that these incidents are linked to the same problem: A lack of pink dye. The demand for this now luxury resource has caused a massive spike in prices, making pink clothes not just really hard to find, but also horribly expensive. Civil unrest is at an all time high and the police force is expecting the worst, unless a new source is found."
+  fbavaria.32.a:0 "Grumpy femboys are more dangerous than you might imagine..."
+
+  fbavaria.33.t:0 "The Duties and Powers of the Regent"
+  fbavaria.33.d:0 "While the assembly seems to have sided with Astopprecht, they didn't actually give the king or regent that much direct power. They have even began discussing elections for a Prime Minister of [BVR.GetName].\n\nAstopprecht decided to take matters into his own hands and write a proclamation greatly increase the king's and, by extention, his powers."
+  fbavaria.33.a:0 "Nice"
+
+  fbavaria.34.t:0 "The Round Table"
+  fbavaria.34.d:0 "A group of cute guys met together today in the Palace of Astopprecht, all of them sitting around a pink table with their swords on it. "I think you all know why we are here gentleboys", exclaimed Astopprecht with juvenal excitement, to begin his speech. "Today all the finest and most chivalrous men of the world shall unite and rejoice together!! As crown prince of [BVR.GetName], I officially announce the creation of a council, where only the most femi-.. Ehmm bravest men will talk about matters most urgent for the state. The femboys of the round table!"
+  fbavaria.34.a:0 "Sounds fun!"
+
+  fbavaria.35.t:0 "The Kingdom"
+  fbavaria.35.d:0 "With everything finally prepared, [BVR.GetName] is ready to become the kingdom it was always meant to be.\n\nHowever, it's missing one very important thing: a king. The king went missing some time ago and most people seem to believe Astopprecht or Felix took him prisoner. Reguardless, now is the time to deal with this matter and decide what Astopprecht should be."
+  fbavaria.35.a:0 "...a good regent."
+  fbavaria.35.b:0 "...a pink-haired king!"
+
+  fbavaria.36.t:0 "Slovenian Exodus"
+  fbavaria.36.d:0 "Immigration Border Security has noted an increase in Slovenian émigrés and immigrants at border check-points, and local skirt-patrol brigades are intercepting many Slovenian parties and caravans attempting to, or in the process of, crossing wooded forests and mountains between the border of [BVR.GetName] and other various countries. Officials are quick to clarify in records and statements that this has resulted in numerous confrontations with border security with surrounding southern and eastern countries, and processing facilities at peak capacity. The process of naturalization is slow, and supplies of warm humanitarian thigh-highs and cat-ears are low as our outdated immigration bureaucracy wains under the pressure. The official statement from our Fem-Citizenship Agency is that it is expected to pass, and merely an unexpected result of unique circumstances within Slovenia."
+  fbavaria.36.a:0 "Glad that's nothing to worry about"
+
+  fbavaria.37.t:0 "A Nation at Arms!"
+  fbavaria.37.d:0 "This peace could only last so long... With the threat of revolution in Bavaria and calls from the Kaiser to be reinstated, Germany has been split in too. Only time will tell which side with triumph."
+  fbavaria.37.a:0 "Oh no..."
+
+  fbavaria.38.t:0 "The Bavarian Election"
+  fbavaria.38.d:0 "The great Bavarian assembly favored Nagisa's plan to move forward over any of the other contenders. During his concerts, he had proposed a democracy, so over the past two weeks all citizens of [BVR.GetName] were allowed to vote. And it appears they've decided to vote for:"
+  fbavaria.38.a:0 "Nagisa"
+  fbavaria.38.b:0 "Hideri"
+
+  fbavaria.39.t:0 "The Future of [BVR.GetName]"
+  fbavaria.39.d:0 "The new democracy is set in stone! Everything is finished! The only decision the very cute leaders of Bavaria have yet to make is what to call our beautiful nation!"
+  fbavaria.39.a:0 "Fembavaria"
+  fbavaria.39.b:0 "Femboyvaria"
+  fbavaria.39.c:0 "The Bavarian Republic"
+  fbavaria.39.e:0 "Bavaria"
+
+  fbavaria.40.t:0 "Germany votes Yes!"
+  fbavaria.40.d:0 "The people of Germany have decided to peacefully join our just cause! [BVR.GetName] shall prevail!"
+  fbavaria.40.a:0 "Great!"
+
+  fbavaria.41.t:0 "Germany votes No!"
+  fbavaria.41.d:0 "Unforunately, the German people outside of [BVR.GetName] don't seem to hold our government in high reguards. A large majority of Germans voted \"no\" on the insane approval to become part of [BVR.GetName]."
+  fbavaria.41.a:0 "Unfortunate..."
+  fbavaria.41.b:0 "This means war!"
+
+  fbavaria.42.t:0 "Bavarian Success in Tyrol!"
+  fbavaria.42.d:0 "Our allies in Tyrol have toppled the Austrian government and proclaimed victory. It appears we have another ally in the world."
+  fbavaria.42.a:0 "A friend!"
+
+  fbavaria.43.t:0 "Victory in Germany"
+  fbavaria.43.d:0 "High-pitched cheers could be heard from the Bavarian army as they declared their victory in the German civil war. No one know exactly what this means for the future of Europe, but it will surely be interesting."
+  fbavaria.43.a:0 "Yay!"
+
+  fbavaria.44.t:0 "The Division of Czechoslovakia"
+  fbavaria.44.d:0 "Significant Bavarian support in the Sudentenland has allowed us to make a play for Czechoslovakian control. It's time to push our claim."
+  fbavaria.44.a:0 "Charge!"
+  fbavaria.44.b:0 "Let's not get ahead of ourselves..."
+
+  fbavaria.45.t:0 "The Fem Union"
+  fbavaria.45.d:0 "Today the Kalmar Union of old is restored in Scandinavia as the \"Fem Union.\" This however isn't the most popular change for all residents of the region. War will be required to secure the north."
+  fbavaria.45.a:0 "Take our claims!"
+  fbavaria.45.b:0 "Let's be cautious..."
+
+  #fbavaria.44.t:0 "Astopprecht’s visit to Moscow"
+  #fbavaria.44.d:0 "A recent visit of crown regent Astopprecht took place in the USSR today, with both Russian diplomats and Bavarian escorts of Astopprecht having a great talk. Despite the very official tone the local newspapers portrayed, his visit was not part of any official state event, but a personal trip for leisure. A suspicious sighting of Astopprecht was reported by some random civilian, but all authorities believe it is just a lie for attention."
+  #fbavaria.44.a:0 "How nice, hope he has a fun vacation."
+
+  #fbavaria.45.t:0 "Chaos in Russia"
+  #fbavaria.45.d:0 "Sometimes you have to sit and think for yourself, how can something so innocent go so terribly terribly wrong. Whatever the case may be, things have gone south with Astopprecht’s visit to Russia, as an organized force of NKVD officers have taken Astopprecht for interrogation.  Apparently his sightings have not just suspicious, but secret talks with corrupt NKVD staff to organize a coup that would instill the values of cuteness, similar to those at [BVR.GetName]. This event has spiraled into a domino effect, that led to a small uprising of femboy sympathizers and organized military and NKVD dissidents."
+  #fbavaria.45.a:0 "Guess they could not handle the cuteness ;)"
+
+  fbavaria.46.t:0 "Friends to the West?"
+  fbavaria.46.d:0 "Earlier today, a message from Paris has reached Munich. The French Communist Party seeks closer ties with our new regime.\"As an opponent to the German government in Berlin, the French Communists could be a valueable asset in the future.\", our foreign minister argued. Our minister of internal security however was concerned that closer ties to non-cute countries could be a stepping stone for our enemies to destroy us from within. Whatever our relations with the French Communists will be in the future, atleast slightly better relations won‘t hurt the country."
+  fbavaria.46.a:0 "We shall see how the situation develops in the future."
+
+  fbavaria.47.t:0 "Bavarian Delegation in Paris"
+  fbavaria.47.d:0 "Today, Bavarian delegates arrived in Paris for a conference with the French Communists. Said conference is supposed to determine the road our country is going down in regards to our relationship with France. The delegation brought the finest gifts [BVR.GetName] had to offer: Thigh highs, chocolate, cat ears and cute oversized sweaters with sleeves that were too long.\n\nIn the days leading up to the conference, the issue had been a hot topic among the governments ministers.\n\nThe French share the same enemy as us: Germany. Furthermore, a better relationship with one of the victorious powers of the Great War could help strengthening our legitimacy on the world stage. We need a strong ally to protect us from agression from the north.\" The standpoint held by the more pragmatic camp in our government, primarily the minister of foreign affairs, would definelty secure the position of [BVR.GetName] in this increasingly hostile world. \"Being under the influence of France is still preferable to being under the influence of Germany.\"\n\n\"We can‘t accept being under the influence of anyone! The more we cooperate with foreign powers, the more our cause loses legitimacy!\" The more dogmatic side of the government, led by the minister of internal affairs, was furious about this. \"There is nothing to worry about. Our superior cute tanks and thigh high-equipped soldiers can not only defend [BVR.GetName], but even conquer Germany! Working with the French will only bring us trouble!“\n\nThe only thing both sides of the argument could agree on was the fact that striped thigh highs in the colors of the French flag would look amazing. But in the end, the choice was clear:"
+  fbavaria.47.a:0 "We need to work with the French"
+  fbavaria.47.b:0 "[BVR.GetName] stands alone!"
+
+  fbavaria.48.t:0 "Bavarian Demand Qingdao"
+  fbavaria.48.d:0 "Bavarians operating from the German city of Munich have claimed the city of Qingdao for themselves and demand that it's returned due to its historical nature as a German colony.\n\nTheir claim is weak and we have no international pressure to accept their demand, but they are cute."
+  fbavaria.48.a:0 "Hand it over."
+  fbavaria.48.b:0 "Never!"
+
+  fbavaria.49.t:0 "Qingdao Returned"
+  fbavaria.49.d:0 "Cute men and women in the city of Qingdao rejoice as the city is turned over to the Bavarians. Massive celebrations have started throughout all feminine lands to celebrtate this great day."
+  fbavaria.49.a:0 "Very cute!"
+
+  fbavaria.50.t:0 "A Rejected Proposal"
+  fbavaria.50.d:0 "It apepars that for now Qingdao will remain lost to us. Maybe one day all the cute guys there will be liberated, but for now we must wait."
+  fbavaria.50.a:0 "Very sad..."
+
+  fbavaria.51.t:0 "The Skirts of Bavaria"
+  fbavaria.51.d:0 "Following the assassination of the Mustache Man, a SHADOW GOVERNMENT was built up in Bavaria. It was super secret and super feminine. No one is completely sure how this came to be, but many hugs and headpats were shared as these revolutionaries prepared for succession. Now today civil war is nigh. The cult of the New German Empire raises its fist against the Wehrmacht. Bavaria will finally be free..."
+  fbavaria.51.a:0 "...and Bavaria shall endure!"
+  fbavaria.51.b:0 "...but not for long!"
+
+  fbavaria.53.t:0 "Wilhelm in Bavaria"
+  fbavaria.53.d:0 "Wilhelm, fearing the true intentions of the New Germany Empire, has decided to flee to Bavaria and be re-instated there as Kaiser. He has been forced to declare that he has no intentions of ruling Germany as the all-powerful monarch and Astopprecht would act politically in his stead.\n\nMany are uncertain as to whether he'll truly stay away from German politics, but for now his new advisors are having fun choosing some cute new clothes for him."
+  fbavaria.53.a:0 "Interesting"
+
+  fbavaria.54.t:0 "Brewing Trouble"
+  fbavaria.54.d:0 "Wilhelm II, in what is no doubt a political stunt, has declared Felix von Wittelsbach as his heir and successor in return for [BVR.GetName]'s support to his claim over Germany."
+  fbavaria.54.a:0 "This won't end well."
+
+  fbavaria.55.t:0 "A Delegation from Germany"
+  fbavaria.55.d:0 "The New German Empire has sent us a gift basket and some cute foreign ministers to announce the beginning of a great friendship between our countries."
+  fbavaria.55.a:0 "Very Cute"
+
+  fbavaria.56.t:0 "German Economic Cooperation"
+  fbavaria.56.d:0 "Germany has announced a new plan to economically integrate both our nations into a new mutually beneficial system. Of course we can always tell them no, but we'd miss out on some amazing benefits..."
+  fbavaria.56.a:0 "Accept their offer!"
+  fbavaria.57.a:0 "No!"
+
+  fbavaria.57.t:0 "Wurttemburg Negotiations"
+  fbavaria.57.d:0 "The New German Empire has little ability to defend Wurttemberg and has devised a new strategy for dealing with it in cooperation with Bavaria. Bavaria will be allowed to politically control the region, but it must give a certain portion of its industry will remain under the control of the German Empire."
+  fbavaria.57.a:0 "Such a Cute Idea!"
+  fbavaria.57.b:0 "No..."
+
+  fbavaria.58.t:0 "The German Alliance"
+  fbavaria.58.d:0 "The New German Empire has had another great idea!! They propose a marriage between our two countries in a beautiful new alliance to shape the face of Europe."
+  fbavaria.58.a:0 "YES!!"
+  fbavaria.58.b:0 "Not Interested..."
+  GERMAN_ALLIANCE:0 "The German Alliance"
+
+  fbavaria.59.t:0 "Germany Denounces Us!"
+  fbavaria.59.d:0 "Germany is being really mean and silly. They claim that we're their rightful territory... They say they'll soon invade us..."
+  fbavaria.59.a:0 "..."
+
+  fbavaria.60.t:0 "Germany Demands Economic Subjugation!"
+  fbavaria.60.d:0 "In Germany's next big bad move they've demanded we give them a lot of money. If we do this they won't invade us, but it'll be bad either way."
+  fbavaria.60.a:0 "Give them the money..."
+  fbavaria.60.b:0 "Give them nothing!"
+
+  fbavaria.61.t:0 "Germany Invites Us to Their Faction!"
+  fbavaria.61.d:0 ""
+  fbavaria.61.a:0 "Join"
+  fbavaria.61.b:0 "Deny Them"
+
+  fbavaria.62.t:0 "Ivan the Beautiful"
+  fbavaria.62.d:0 "The Bavarian assembly has attracted more than only Germans to its court. Thousands traveled from the Soviet Union, fleeing potential purges. One such refugee going by the name of \"Ivan\" managed to secure himself a seat on the assembly alongside the crown prince and other leaders. He claims to be qute the military mastermind and wants to help spread the ideology to the Soviet Union, overthrowing Stalin's regime. Other leaders are skeptical over whether getting involved in other countries is the primary concern for the time being, but he seems to be pushing through with his plans for Russia whether the council approves of them or not."
+  fbavaria.62.a:0 "Send him to Ukraine!"
+  fbavaria.62.b:0 "We need him here."
+  fbavaria_62_tooltip:0 "Increases support in §YUkraine§! by §G20%§!."
+
+  fbavaria.63.t:0 "Feminine Propaganda in Ukraine"
+  fbavaria.63.d:0 "The newly independent nation of Bavaria has been causing trouble in Ukraine. We must try to get them to stop messing with our beautiful country."
+  fbavaria.63.a:0 "Get them to stop!"
+
+  fbavaria.64.t:0 "[SOV.GetName] Offers Us a Deal"
+  fbavaria.64.d:0 "It seems that [SOV.GetNameDef] has become aware of our activies in their territory. They've already demanded we stop, but are offering an economic incentive if we publicly condemn these efforts."
+  fbavaria.64.a:0 "Cute!"
+  fbavaria.64.b:0 "Continue the Movement!"
+
+  fbavaria.65.t:0 "The Kiev Conference"
+  fbavaria.65.d:0 "An independent conference of Ukrainian separatists have met in Kiev. They have nothing to do with Femboys or our government here in [BVR.GetName], but they are looking for financial support. If we finance their movement we may be able to increase our support in Ukraine."
+  fbavaria.65.a:0 "Yes!!!"
+  fbavaria.65.b:0 "Too expensive..."
+
+  fbavaria.66.t:0 "The Sochi Speach"
+  fbavaria.66.d:0 "Ivan secretly visited the city of Sochi to give a speech. He seems to have rallied thousands of new followers for the cause, and escaped right before the Russian intelligence agents could find him!"
+  fbavaria.66.a:0 "So cute!!!"
+
+  fbavaria.67.t:0 "Germany Pays Up"
+  fbavaria.67.d:0 "Wilhelm has followed through with his promise and gave us the money!!!!"
+  fbavaria.67.a:0 "So cute!!!"
+
+  fbavaria.68.t:0 "Wilhelm II is Dead"
+  fbavaria.68.a:0 "Long Live Wilhelm III"
+  fbavaria.68.b:0 "Long Live Kaiser Felix"
+  fbavaria.68.c:0 "Kaiser Felix cannot be king!"
+
+  fbavaria.69.t:0 "The German Succession"
+  fbavaria.69.d:0 "Kaiser Wilehlm II is dead and his heir, Crown Prince Felix, has become Kaiser. The New German Empire and [BVR.GetName] both rejoice as this new Kaiser takes the reigns."
+  fbavaria.69.a:0 "Long Live Kaiser Felix"
+  GER_fascism_felix_long:0 "The Royal Feminine Party of the New German Empire"
+  GER_fascism_felix:0 "Felix Loyalists"
+
+  fbavaria.70.t:0 "The German Succession"
+  fbavaria.70.d:0 "Kaiser Wilehlm II is dead and the New German Empire refuses to accept Felix's claim to the throne. We have two options: We can start a civil war and place him on the throne ourselves or stand aside and let them have their fun."
+  fbavaria.70.a:0 "Invade them!"
+  fbavaria.70.b:0 "Now is not the time..."
+
+  fbavaria.71.t:0 "The True King of England"
+  fbavaria.71.d:0 "Astopprecht, leader of Bavaria, now claims to be a descendant of a secret grandson of Henry VIII. Allies and contacts in Britain support this claim and have already risen up to enforce it. The government in London is furious and a civil war has begun."
+  fbavaria.71.a:0 "For the King!"
+
+  fbavaria.72.t:0 "Wehrmacht Soldiers Defect"
+  fbavaria.72.d:0 "With the German Empire becoming increasingly powerful, Wehrmacht soldiers are giving up the fight. Some, however, want to keep this war going. Their remaining forces are willing to continue fighting under our banner."
+  fbavaria.72.a:0 "Bring them in!"
+  fbavaria.72.b:0 "We can win this alone!"
+  fbavaria_cuteness_72_tooltip:0 "£uwu  Cuteness Factor: §R-20%§!"
+
+  fbavaria.74.t:0 "A Bavarian Identity"
+  fbavaria.74.d:0 "Everything is finished! The only decision the very cute leaders of Bavaria have yet to make is what to call our beautiful nation!"
+  fbavaria.74.a:0 "Fembavaria"
+  fbavaria.74.b:0 "Femboyvaria"
+  fbavaria.74.c:0 "The Knightly Order of Pink Bavaria"
+  fbavaria.74.e:0 "Bavaria"
+  fbavaria.74.f:0 "The Kingdom of Fembavaria"
+  fbavaria.74.g:0 "The Kingdom of Femboyvaria"
+  fbavaria.74.h:0 "The Kingdom of Bavaria"
+
+  fbavaria.75.t:0 "The Constitution"
+  fbavaria.75.d:0 "The simplified Bavarian Constitution created for the Assembly will no longer do! It's time to make something cute and real! The only question is whether this document will prioritize creating a strong government or a cute one..."
+  fbavaria.75.a:0 "Strong Government"
+  fbavaria.75.b:0 "Cute Government"
+
+  fbavaria.76.t:0 "Bavaria's Great Dream"
+  fbavaria.76.d:0 "So many nations are filled with evil and sadness... It's time we bring hope and cuteness to the whole world! Our agencies and armies are preparing! It will soon be time!"
+  fbavaria.76.a:0 "For [BVR.GetNameDef]"
+
+  fbavaria.77.t:0 "City Names Commission"
+  fbavaria.77.d:0 "A new issue has today been brought up to the Munich Concert Council. Apparently, our city names are all boring and need to be updated. This is an interesting idea for sure. While renaming Bavarian city names could be cute, it also may upset many inside and outside our nation."
+  fbavaria.77.a:0 "Great idea!"
+  fbavaria.77.b:0 "Let's not randomly change historical city names..."
+
+  fbavaria.78.t:0 "Nuremburg"
+  fbavaria.78.d:0 "First up! NUREMBURG! What cool names could we ascribe? Many idea have been thrown around but only three have really landed."
+  fbavaria.78.a:0 "Cuteburg"
+  NUREMBURG_NAME_1:0 "Cuteburg"
+  fbavaria.78.b:0 "The Cute Club"
+  NUREMBURG_NAME_2:0 "The Cute Club"
+  fbavaria.78.c:0 "The Pillar of Destruction"
+  NUREMBURG_NAME_3:0 "The Pillar of Destruction"
+
+  fbavaria.79.t:0 "Regensburg"
+  fbavaria.79.d:0 "Now for REGENSBURG! Several in the city are already calling it \"Snickerdoodle\" though of course we get the final say. Many in the council prefer Snuggleton or Pinkburg."
+  fbavaria.79.a:0 "Pinkburg"
+  REGENSBURG_NAME_1:0 "Pinkburg"
+  fbavaria.79.b:0 "Snuggleton"
+  REGENSBURG_NAME_2:0 "Snuggleton"
+  fbavaria.79.c:0 "Snickerdoodle"
+  REGENSBURG_NAME_3:0 "Snickerdoodle"
+  fbavaria.79.e:0 "River of Death"
+  REGENSBURG_NAME_4:0 "River of Death"
+
+  fbavaria.80.t:0 "Munich"
+  fbavaria.80.d:0 "And last but not least, the Bavarian capital of MUNICH! For one reason or another, a group of international bakers flocking to the city have already dubbed it the Cupcake City though Cozyville has been a popular alternative for many residents."
+  fbavaria.80.a:0 "Whiskerfield"
+  MUNICH_NAME_1:0 "Whiskerfield"
+  fbavaria.80.b:0 "Bunnyhaven"
+  MUNICH_NAME_2:0 "Bunnyhaven"
+  fbavaria.80.c:0 "Cupcake City"
+  MUNICH_NAME_3:0 "Cupcake City"
+  fbavaria.80.e:0 "Cozyville"
+  MUNICH_NAME_4:0 "Cozyville"
+  fbavaria.80.f:0 "The Crater of Eternal Doom"
+  MUNICH_NAME_5:0 "The Crater of Eternal Doom"
+
+  fbavaria.81.t:0 "A United Front"
+  fbavaria.81.d:0 "A decree today was posted proclaiming that all agents of cuteness must unite in their goals. No longer will different factions vie for power. We all must assist each other in unison to defeat the non-cute. The decree reverberated throughout [ROOT.GetName], igniting a renewed sense of purpose among the agents of cuteness. From men and women to the tiniest kittens to the fluffiest bunnies, from adorable puppies to charming baby pandas, creatures of all shapes and sizes heeded the call to unite. It was an unprecedented moment, as a diverse array of cuteness ambassadors set aside their differences and embraced a common mission: to combat the forces of non-cuteness that threatened their world.\n\nAnd so, the decree that had proclaimed their unity became the catalyst for a revolution of adorableness. As the agents of cuteness stood shoulder to shoulder, they marched forward, their collective power radiating like a beacon of hope. The battle against non-cuteness had begun, and the world braced itself for an onslaught of irresistible charm that would transform it forever."
+  fbavaria.81.a:0 "Yay!"
+
+  fbavaria.82.t:0 "Pink!?"
+  fbavaria.82.d:0 "A surprisingly large number of buildings within [ROOT.GetName] have recently been painted various shades of pink and purple. It has been an interesting development. While some have resisted the changes, it’s hard to not but smile at the country’s newfound beauty. More is sure to change as the years go on."
+  fbavaria.82.a:0 "Yay!"
+
+  fbavaria.83.t:0 "Pageant Time"
+  fbavaria.83.d:0 "Pageant time! Today a massive pageant was organized in [ROOT.GetName]! Almost everyone in the country participated! It was terribly organized so the judging was inconsistent and there wasn’t actually a winner or anything, but it was super fun. More are sure to come!"
+  fbavaria.83.a:0 "Yay!"
+
+  fbavaria.84.t:0 "Ultimus"
+  fbavaria.84.d:0 "The Ultimate Power of Adorablex will soon be achieved. Years of planning. Eons of evolution. Soon the fates will be aligned. The sun will shine brighter. Hugs will be tighter.\n\n[ROOT.GetLeader] has held extensive meetings throughout [ROOT.GetName] to ensure people are ready to take this next step, and it has been determined that the requisite levels have been met. All systems are active. It is time for PARADE."
+  fbavaria.84.a:0 "Yay!"
